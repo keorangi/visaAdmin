@@ -386,6 +386,7 @@ hr {
 
 @media (max-width: 1023px) {
   .hero__copy, .hero__aside { grid-column: 1 / -1; }
+  .hero__aside .form { max-width: 32rem; }
 }
 
 .hero__eyebrow {
