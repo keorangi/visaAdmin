@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__grid">
+      <div>
+        <a href="{{ "/" | relURL }}" class="site-footer__brand">{{ site.Params.brand.name | default site.Title }}</a>
+        <p>{{ site.Params.footer.tagline }}</p>
+      </div>
+      {{ range site.Params.footer.columns }}
+        <div>
+          <h4>{{ .title }}</h4>
+          <ul>
+            {{ range .links }}
+              <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    </div>
+    <div class="site-footer__base">
+      <span>&copy; {{ now.Year }} {{ site.Params.footer.copyright }}</span>
+      <span>Aotearoa New Zealand</span>
+    </div>
+  </div>
+</footer>

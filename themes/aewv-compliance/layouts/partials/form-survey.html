@@ -1,0 +1,71 @@
+{{- $survey := site.Data.survey -}}
+<form
+  class="form"
+  data-form="survey"
+  action="{{ site.Params.forms.surveyEndpoint }}"
+  method="{{ site.Params.forms.method | default "POST" }}"
+  data-thanks="{{ $survey.thanks }}"
+  novalidate
+>
+  {{ with $survey.intro }}<p class="muted">{{ . }}</p>{{ end }}
+
+  {{ range $survey.fields }}
+    {{ $f := . }}
+    {{ if eq .type "radio" }}
+      <fieldset class="form-row form-fieldset">
+        <legend>{{ .label }}{{ if .required }}<span class="form-required" aria-hidden="true">*</span>{{ end }}</legend>
+        <div class="form-radio-group">
+          {{ range .options }}
+            <label class="form-radio">
+              <input type="radio" name="{{ $f.name }}" value="{{ .value }}"{{ if $f.required }} required{{ end }}>
+              <span>{{ .label }}</span>
+            </label>
+          {{ end }}
+        </div>
+      </fieldset>
+    {{ else if eq .type "select" }}
+      <div class="form-row">
+        <label for="f-{{ .name }}">{{ .label }}{{ if .required }}<span class="form-required" aria-hidden="true">*</span>{{ end }}</label>
+        <select class="form-select" id="f-{{ .name }}" name="{{ .name }}"{{ if .required }} required{{ end }}>
+          <option value="">Select…</option>
+          {{ range .options }}<option value="{{ .value }}">{{ .label }}</option>{{ end }}
+        </select>
+      </div>
+    {{ else if eq .type "textarea" }}
+      <div class="form-row">
+        <label for="f-{{ .name }}">{{ .label }}{{ if .required }}<span class="form-required" aria-hidden="true">*</span>{{ end }}</label>
+        <textarea
+          class="form-textarea"
+          id="f-{{ .name }}"
+          name="{{ .name }}"
+          rows="{{ .rows | default 4 }}"
+          {{ if .required }}required{{ end }}
+          {{ with .placeholder }}placeholder="{{ . }}"{{ end }}
+        ></textarea>
+      </div>
+    {{ else }}
+      <div class="form-row">
+        <label for="f-{{ .name }}">{{ .label }}{{ if .required }}<span class="form-required" aria-hidden="true">*</span>{{ end }}</label>
+        <input
+          class="form-input"
+          type="{{ .type }}"
+          id="f-{{ .name }}"
+          name="{{ .name }}"
+          {{ if .required }}required{{ end }}
+          {{ with .placeholder }}placeholder="{{ . }}"{{ end }}
+          {{ if eq .type "email" }}autocomplete="email" spellcheck="false"{{ end }}
+        >
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{/* Honeypot */}}
+  <div aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+    <label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+  </div>
+
+  <div>
+    <button type="submit" class="btn btn--accent">{{ $survey.submit }}</button>
+  </div>
+  <p class="form-message" role="status" aria-live="polite"></p>
+</form>

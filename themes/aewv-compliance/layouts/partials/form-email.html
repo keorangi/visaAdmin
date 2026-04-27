@@ -1,0 +1,33 @@
+<form
+  class="form"
+  data-form="email"
+  action="{{ site.Params.forms.emailEndpoint }}"
+  method="{{ site.Params.forms.method | default "POST" }}"
+  data-thanks="Thanks. We'll be in touch."
+  novalidate
+>
+  <div class="form-row">
+    <label for="hero-email">Get early access</label>
+    <div class="form-inline">
+      <input
+        class="form-input"
+        type="email"
+        id="hero-email"
+        name="email"
+        required
+        placeholder="you@company.co.nz"
+        autocomplete="email"
+        spellcheck="false"
+      >
+      <button type="submit" class="btn">Notify me</button>
+    </div>
+    <small class="form-help">No spam. Updates only when something matters.</small>
+  </div>
+
+  {{/* Honeypot — bots fill it; humans never see it. */}}
+  <div aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+    <label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+  </div>
+
+  <p class="form-message" role="status" aria-live="polite"></p>
+</form>

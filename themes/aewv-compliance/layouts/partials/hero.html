@@ -1,0 +1,27 @@
+{{- /*
+  Hero partial.
+  Call with a dict:
+    {{ partial "hero.html" (dict
+        "eyebrow" "AEWV compliance, simplified"
+        "title"   "Stay accredited. <em>Without the spreadsheets.</em>"
+        "lede"    "..."
+        "page"    .            // pass page context if you want the form to render
+    ) }}
+*/ -}}
+{{- $eyebrow := .eyebrow -}}
+{{- $title := .title -}}
+{{- $lede := .lede -}}
+<section class="hero">
+  <div class="container">
+    <div class="hero__inner">
+      <div class="hero__copy">
+        {{ with $eyebrow }}<div class="hero__eyebrow">{{ . }}</div>{{ end }}
+        <h1 class="hero__title">{{ $title | safeHTML }}</h1>
+        {{ with $lede }}<p class="hero__lede">{{ . }}</p>{{ end }}
+      </div>
+      <div class="hero__aside">
+        {{ partial "form-email.html" . }}
+      </div>
+    </div>
+  </div>
+</section>

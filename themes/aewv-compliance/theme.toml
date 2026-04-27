@@ -1,0 +1,10 @@
+name = "AEWV Compliance"
+license = "MIT"
+description = "Configuration-led, minimal Hugo theme for compliance platforms. Nordic / Swiss design sensibility."
+homepage = ""
+tags = ["minimal", "compliance", "swiss", "nordic", "configurable", "tokens"]
+features = ["responsive", "design-tokens", "accessible", "self-hosted-fonts"]
+min_version = "0.120.0"
+
+[author]
+  name = "AEWV Compliance"

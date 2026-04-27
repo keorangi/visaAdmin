@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#FFFFFF">
+
+{{ partial "seo.html" . }}
+
+{{- $fontPath := "themes/aewv-compliance/static/fonts/InterVariable.woff2" -}}
+{{- if (os.FileExists $fontPath) }}
+<link rel="preload" as="font" type="font/woff2" href="/fonts/InterVariable.woff2" crossorigin>
+{{- end }}
+
+{{ $css := resources.Get "css/main.css" | resources.ExecuteAsTemplate "css/main.css" . | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+
+{{ block "head" . }}{{ end }}

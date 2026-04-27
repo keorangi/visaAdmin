@@ -1,0 +1,19 @@
+{{ define "main" }}
+<header class="page-header">
+  <div class="container">
+    {{ if and .Section (ne .Section "") }}<div class="eyebrow">{{ .Section | humanize }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="page-header__lede">{{ . }}</p>{{ end }}
+    {{ if eq .Section "blog" }}
+      <p class="page-header__meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      </p>
+    {{ end }}
+  </div>
+</header>
+<article class="container">
+  <div class="prose">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

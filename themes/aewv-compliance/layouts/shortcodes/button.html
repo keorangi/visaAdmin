@@ -1,0 +1,7 @@
+{{- $href := .Get "href" -}}
+{{- $variant := .Get "variant" | default "primary" -}}
+{{- $size := .Get "size" -}}
+{{- $class := "btn" -}}
+{{- if ne $variant "primary" }}{{ $class = printf "%s btn--%s" $class $variant }}{{ end -}}
+{{- with $size }}{{ $class = printf "%s btn--%s" $class . }}{{ end -}}
+<a class="{{ $class }}" href="{{ $href | relURL }}">{{ .Inner | default ($.Get "label") }}</a>

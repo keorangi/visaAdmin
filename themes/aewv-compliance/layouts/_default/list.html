@@ -1,0 +1,28 @@
+{{ define "main" }}
+<header class="page-header">
+  <div class="container">
+    <div class="eyebrow">{{ .Title }}</div>
+    <h1>{{ with .Params.heading }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Description }}<p class="page-header__lede">{{ . }}</p>{{ end }}
+  </div>
+</header>
+<section class="container">
+  {{ with .Content }}<div class="prose" style="margin-bottom: var(--space-7);">{{ . }}</div>{{ end }}
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ if $pages }}
+  <ul class="post-list">
+    {{ range $pages }}
+    <li>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+      <div>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ else }}<p>{{ .Summary | plainify | truncate 160 }}</p>{{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ else }}
+    <p class="muted">No posts yet.</p>
+  {{ end }}
+</section>
+{{ end }}

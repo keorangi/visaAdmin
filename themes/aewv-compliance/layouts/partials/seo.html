@@ -1,0 +1,169 @@
+{{- /*
+  SEO partial.
+  Emits: page title, description, robots, canonical, OpenGraph, Twitter card,
+         JSON-LD (WebSite + Organization on home; Article on blog posts;
+         WebPage + BreadcrumbList elsewhere).
+
+  Per-page overrides via front matter:
+    title:       page title
+    description: meta description (fallback: site.Params.description)
+    keywords:    [string, ...]
+    image:       absolute or root-relative URL for OG/Twitter card
+    noindex:     true to emit noindex,nofollow
+    canonical:   override canonical URL
+*/ -}}
+
+{{- $seo := site.Params.seo -}}
+{{- $siteName := $seo.siteName | default site.Title -}}
+
+{{- /* Title */ -}}
+{{- $title := "" -}}
+{{- if .IsHome -}}
+  {{- $title = $siteName -}}
+  {{- with (site.Params.tagline | default site.Params.description) }}{{ $title = printf "%s — %s" $siteName . }}{{ end -}}
+{{- else -}}
+  {{- $title = printf "%s — %s" .Title $siteName -}}
+{{- end -}}
+<title>{{ $title }}</title>
+
+{{- /* Description */ -}}
+{{- $desc := "" -}}
+{{- with .Description }}{{ $desc = . }}{{ else }}{{ $desc = site.Params.description }}{{ end -}}
+{{- if and (not $desc) .IsPage }}{{ $desc = .Summary | plainify | truncate 160 }}{{ end -}}
+<meta name="description" content="{{ $desc }}">
+
+{{- /* Keywords */ -}}
+{{- with .Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{- end }}
+
+{{- /* Canonical */ -}}
+{{- $canonical := .Permalink -}}
+{{- with .Params.canonical }}{{ $canonical = . }}{{ end -}}
+<link rel="canonical" href="{{ $canonical }}">
+
+{{- /* Robots */ -}}
+{{- if or .Params.noindex (not hugo.IsProduction) }}
+<meta name="robots" content="noindex,nofollow">
+{{- else }}
+<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+{{- end }}
+
+{{- /* Image */ -}}
+{{- $image := "" -}}
+{{- with .Params.image }}{{ $image = . }}{{ else }}{{ $image = $seo.defaultImage }}{{ end -}}
+{{- if $image -}}
+  {{- if not (or (hasPrefix $image "http://") (hasPrefix $image "https://")) -}}
+    {{- $image = absURL $image -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* OpenGraph */ -}}
+<meta property="og:site_name" content="{{ $siteName }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:locale" content="{{ $seo.locale | default "en_NZ" }}">
+{{- if eq .Section "blog" }}
+<meta property="og:type" content="article">
+{{- with .Date }}<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{- with .Lastmod }}<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{- range .Params.tags }}<meta property="article:tag" content="{{ . }}">{{ end }}
+{{- else }}
+<meta property="og:type" content="website">
+{{- end }}
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+<meta property="og:image:alt" content="{{ $title }}">
+{{- end }}
+
+{{- /* Twitter card */ -}}
+<meta name="twitter:card" content="{{ if $image }}{{ $seo.twitterCard | default "summary_large_image" }}{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{- with $image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+{{- with $seo.twitter }}<meta name="twitter:site" content="{{ . }}">{{ end }}
+
+{{- /* RSS link (Hugo emits feed by default) */ -}}
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $siteName }}" href="{{ .Permalink }}">
+{{ end }}
+
+{{- /* JSON-LD */ -}}
+{{- $org := dict
+  "@type" "Organization"
+  "@id" (printf "%s#org" site.BaseURL)
+  "name" ($seo.organizationLegalName | default $siteName)
+  "url" site.BaseURL
+  "email" $seo.organizationEmail
+-}}
+{{- if $seo.defaultImage }}{{ $org = merge $org (dict "logo" (absURL $seo.defaultImage)) }}{{ end -}}
+
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{{- $website := dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    (merge $org (dict "@context" "https://schema.org"))
+    (dict
+      "@type" "WebSite"
+      "@id" (printf "%s#website" site.BaseURL)
+      "url" site.BaseURL
+      "name" $siteName
+      "description" site.Params.description
+      "publisher" (dict "@id" (printf "%s#org" site.BaseURL))
+      "inLanguage" (site.LanguageCode | default "en-nz")
+    )
+  )
+-}}
+{{ $website | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- else if eq .Section "blog" -}}
+<script type="application/ld+json">
+{{- $article := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "headline" .Title
+  "description" $desc
+  "url" $canonical
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" $canonical)
+  "publisher" $org
+  "author" $org
+  "inLanguage" (site.LanguageCode | default "en-nz")
+-}}
+{{- with $image }}{{ $article = merge $article (dict "image" .) }}{{ end -}}
+{{- with .Params.keywords }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end -}}
+{{ $article | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- else -}}
+<script type="application/ld+json">
+{{- $page := dict
+  "@context" "https://schema.org"
+  "@type" "WebPage"
+  "name" .Title
+  "description" $desc
+  "url" $canonical
+  "inLanguage" (site.LanguageCode | default "en-nz")
+  "publisher" $org
+-}}
+{{ $page | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}
+
+{{- /* BreadcrumbList for non-home pages */ -}}
+{{- if not .IsHome -}}
+{{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" site.BaseURL) -}}
+{{- if and .Section (ne .Section "") -}}
+  {{- $secURL := printf "%s%s/" site.BaseURL .Section -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" (.Section | humanize) "item" $secURL) -}}
+{{- end -}}
+{{- if .IsPage -}}
+  {{- $pos := add (len $crumbs) 1 -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" $canonical) -}}
+{{- end -}}
+<script type="application/ld+json">
+{{ (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $crumbs) | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}

@@ -1,0 +1,20 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Theme assets that should be fetched at build time, not committed
+themes/aewv-compliance/static/fonts/InterVariable.woff2
+
+# Docs — local notes, handover, planning (not committed)
+docs/
+
+# Local env
+.env
+.env.local
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/

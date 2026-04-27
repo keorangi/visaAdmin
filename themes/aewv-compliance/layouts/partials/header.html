@@ -1,0 +1,19 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a href="{{ "/" | relURL }}" class="site-header__brand">
+      <span class="site-header__brand-mark" aria-hidden="true"></span>
+      {{ site.Params.brand.name | default site.Title }}
+    </a>
+
+    <button class="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false">Menu</button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Primary">
+      {{- $current := .RelPermalink -}}
+      {{ range site.Params.nav }}
+        {{ $url := .url | relURL }}
+        <a href="{{ $url }}"{{ if eq $current $url }} aria-current="page"{{ end }}>{{ .name }}</a>
+      {{ end }}
+      <a href="{{ "/#cta" | relURL }}" class="btn btn--accent btn--sm">{{ site.Params.cta.primary | default "Get early access" }}</a>
+    </nav>
+  </div>
+</header>

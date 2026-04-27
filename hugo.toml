@@ -1,0 +1,108 @@
+baseURL = "https://aewvcompliance.co.nz/"
+languageCode = "en-nz"
+title = "AEWV Compliance"
+theme = "aewv-compliance"
+enableRobotsTXT = true
+enableEmoji = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[outputs]
+  home    = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[params]
+  # Used in home page title: "{siteName} — {tagline}". Keep short (≤ 60 chars total).
+  tagline = "AEWV compliance, simplified."
+  # Used as meta description fallback. Used as og:description on home.
+  description = "Stay accredited without the spreadsheets. AEWV Compliance helps New Zealand employers meet Immigration NZ obligations with calm, audit-ready records."
+
+  [params.brand]
+    name = "AEWV Compliance"
+    short = "AEWV"
+
+  [params.layout]
+    maxWidth = "1320px"
+    proseWidth = "68ch"
+
+  [params.forms]
+    # Forms POST to the standalone Go service in service/forms/.
+    # Run it locally: `cd service/forms && make run` (listens on :8080).
+    # In production, replace with your deployed origin.
+    # While "#": JS intercepts and shows a local-only thank-you (useful for static preview).
+    emailEndpoint = "#"
+    surveyEndpoint = "#"
+    method = "POST"
+
+  [params.seo]
+    # OpenGraph / Twitter / JSON-LD defaults.
+    # Per-page front matter overrides any of these.
+    siteName = "AEWV Compliance"
+    twitter = ""                      # e.g. "@aewvcompliance"
+    locale = "en_NZ"
+    organizationLegalName = "AEWV Compliance Ltd."
+    organizationEmail = "hello@aewvcompliance.co.nz"
+    organizationCountry = "NZ"
+    organizationFoundingYear = 2026
+    # Default OG image — relative to /static/ (drop a 1200x630 png at static/og-default.png)
+    defaultImage = "/og-default.png"
+    # Twitter card type for non-article pages: "summary" or "summary_large_image"
+    twitterCard = "summary_large_image"
+
+  [params.cta]
+    primary = "Get early access"
+    secondary = "Take the survey"
+
+  [[params.nav]]
+    name = "About"
+    url = "/about/"
+  [[params.nav]]
+    name = "Notes"
+    url = "/blog/"
+  [[params.nav]]
+    name = "Contact"
+    url = "/contact/"
+
+  [params.footer]
+    tagline = "Built for accredited New Zealand employers."
+    copyright = "AEWV Compliance"
+
+    [[params.footer.columns]]
+      title = "Product"
+      [[params.footer.columns.links]]
+        name = "About"
+        url = "/about/"
+      [[params.footer.columns.links]]
+        name = "Notes"
+        url = "/blog/"
+
+    [[params.footer.columns]]
+      title = "Talk"
+      [[params.footer.columns.links]]
+        name = "Contact"
+        url = "/contact/"
+
+    [[params.footer.columns]]
+      title = "Legal"
+      [[params.footer.columns.links]]
+        name = "Terms"
+        url = "/terms/"
+      [[params.footer.columns.links]]
+        name = "Privacy"
+        url = "/privacy/"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[taxonomies]
+  tag = "tags"

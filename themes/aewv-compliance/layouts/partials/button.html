@@ -1,0 +1,18 @@
+{{- /*
+  Button partial.
+    {{ partial "button.html" (dict "label" "Get early access" "href" "/#cta" "variant" "accent") }}
+  Variants: primary (default) | secondary | subtle | accent
+  Sizes: variant suffix " sm" or " xs" via "size" key.
+*/ -}}
+{{- $variant := .variant | default "primary" -}}
+{{- $size := .size -}}
+{{- $href := .href -}}
+{{- $label := .label -}}
+{{- $class := "btn" -}}
+{{- if and $variant (ne $variant "primary") }}{{ $class = printf "%s btn--%s" $class $variant }}{{ end -}}
+{{- if $size }}{{ $class = printf "%s btn--%s" $class $size }}{{ end -}}
+{{- if $href -}}
+<a class="{{ $class }}" href="{{ $href | relURL }}">{{ $label }}</a>
+{{- else -}}
+<button class="{{ $class }}" type="{{ .type | default "button" }}">{{ $label }}</button>
+{{- end -}}

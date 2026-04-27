@@ -1,0 +1,9 @@
+{{- /*
+  Card partial.
+    {{ partial "card.html" (dict "index" "01" "title" "Title" "body" "Body text") }}
+*/ -}}
+<article class="card">
+  {{ with .index }}<span class="card__index">{{ . }}</span>{{ end }}
+  <h3 class="card__title">{{ .title }}</h3>
+  <p class="card__body">{{ .body }}</p>
+</article>

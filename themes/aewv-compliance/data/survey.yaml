@@ -1,0 +1,58 @@
+intro: "Five questions, five minutes. The answers go straight to the team building this."
+submit: "Send"
+thanks: "Thanks. We'll be in touch."
+
+fields:
+  - name: company_name
+    label: "Company"
+    type: text
+    required: true
+
+  - name: role
+    label: "Your role"
+    type: text
+    required: false
+    placeholder: "e.g. HR Manager, Director, Operations"
+
+  - name: email
+    label: "Work email"
+    type: email
+    required: true
+
+  - name: accreditation
+    label: "Are you AEWV accredited?"
+    type: radio
+    required: true
+    options:
+      - { value: "yes", label: "Yes" }
+      - { value: "applying", label: "Applying" }
+      - { value: "considering", label: "Considering" }
+      - { value: "no", label: "No" }
+
+  - name: workers
+    label: "Roughly how many migrant workers do you employ?"
+    type: select
+    required: false
+    options:
+      - { value: "0", label: "0" }
+      - { value: "1-5", label: "1–5" }
+      - { value: "6-20", label: "6–20" }
+      - { value: "21-100", label: "21–100" }
+      - { value: "100+", label: "100+" }
+
+  - name: pain
+    label: "What is your biggest AEWV compliance pain right now?"
+    type: textarea
+    required: false
+    rows: 4
+    placeholder: "Plain language, no need to polish."
+
+  - name: willingness
+    label: "Would you pay for a tool that simplified ongoing AEWV compliance?"
+    type: radio
+    required: false
+    options:
+      - { value: "definitely", label: "Definitely" }
+      - { value: "probably", label: "Probably" }
+      - { value: "unsure", label: "Unsure" }
+      - { value: "no", label: "No" }
