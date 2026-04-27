@@ -559,8 +559,13 @@ hr {
   border-color: var(--color-text);
 }
 
-.form-inline { display: flex; gap: var(--space-2); align-items: stretch; }
-.form-inline .form-input { flex: 1; }
+.form-inline { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: stretch; }
+.form-inline .form-input { flex: 1 1 200px; min-width: 0; }
+
+@media (max-width: 480px) {
+  .form-inline { flex-direction: column; }
+  .form-inline .btn { width: 100%; }
+}
 
 .form-message {
   font-size: var(--text-sm);

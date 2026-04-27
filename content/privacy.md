@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "How AEWV Compliance handles your information."
 ---
 
-**Effective 27 April 2026**
+**Effective 28 April 2026**
 
 We are committed to protecting your personal information in accordance with the **New Zealand Privacy Act 2020**. This policy explains what we collect, why, how we use it, and your rights.
 
@@ -28,6 +28,8 @@ When you submit a contact form, survey, or inquiry, we collect:
 - Any other information you choose to provide (e.g. survey answers, comments)
 - Timestamp of submission
 - Page or form submitted from
+
+Form submissions are processed on our behalf by **Web3Forms** (operated by Web3Creative, based in Kerala, India), which receives the submission, forwards it to us by email, and temporarily stores a copy. See Section 7 for details.
 
 ### 2.2 Automatically Collected Data
 
@@ -57,7 +59,8 @@ Your information is used only for the purposes listed above. We do not:
 - Sell your information
 - Share it with third parties for marketing or commercial purposes
 - Use it for profiling or targeting
-- Share it with overseas services or vendors (except as required by law)
+
+Form submissions are transmitted via Web3Forms (an overseas processor — see Section 7). Aside from this, we do not share your information with overseas services or vendors except as required by law.
 
 ## 5. Data Retention
 
@@ -68,6 +71,8 @@ Survey responses and contact form submissions are retained for the duration of o
 - Raw responses will be aggregated into anonymised insights
 - Individual responses will be permanently deleted within 12 months of the end of the validation phase
 - Aggregated data (e.g. "70% of respondents cited X as a pain point") may be retained indefinitely
+
+Web3Forms additionally retains a copy of each submission on its own servers for **30 days**, after which it is automatically deleted. The copy held by us in our email inbox is governed by the retention timeline above.
 
 ### 5.2 Account & Technical Data
 
@@ -85,11 +90,20 @@ Under the Privacy Act 2020, you have the right to:
 
 To exercise any of these rights, email hello@aewvcompliance.co.nz. We will respond within 20 working days as required by the Privacy Act 2020.
 
-## 7. No Third-Party Processors
+## 7. Third-Party Processors
 
-At our current pre-launch stage, we do not use third-party services (email hosting, payment processors, analytics, etc.) for this Site. All data is stored on our own infrastructure or with hosting providers that are subject to our data protection requirements.
+We use one third-party processor for this Site:
 
-If we integrate third-party services in the future, we will:
+**Web3Forms** — operated by Web3Creative, registered in Kerala, India - as disclosed by their service. We use Web3Forms to receive and forward contact form and survey submissions to our email. When you submit a form:
+
+- Your submission is sent to Web3Forms' API, which forwards it to us by email
+- Web3Forms stores a copy on its servers for up to 30 days, then automatically deletes it
+- Web3Forms states that it does not sell submission data and does not share it with further third parties for marketing
+- Web3Forms is located outside New Zealand; by submitting a form you consent to your information being transmitted to and temporarily stored by Web3Forms in this jurisdiction
+
+Web3Forms' own privacy policy is available at [web3forms.com/privacy](https://web3forms.com/privacy).
+
+We do not use any other third-party processor — no analytics, advertising, payment, or tracking services. If we integrate additional third-party services in the future, we will:
 - Update this policy
 - Only use providers that meet New Zealand privacy standards
 - Limit data sharing to what is strictly necessary
