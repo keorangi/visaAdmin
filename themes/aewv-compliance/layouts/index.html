@@ -1,41 +1,29 @@
 {{ define "main" }}
 
 {{ partial "hero.html" (dict
-  "eyebrow" "AEWV compliance, simplified"
-  "title"   "Stay accredited. <em>Without the spreadsheets.</em>"
-  "lede"    "AEWV Compliance helps New Zealand employers meet Immigration New Zealand obligations with calm, audit-ready records — built for HR teams, founders, and operators."
+  "eyebrow" .Params.hero.eyebrow
+  "title"   .Params.hero.title
+  "lede"    .Params.hero.lede
 ) }}
 
 <section class="section section--accent section--bordered">
   <div class="container">
     <div class="grid-12" style="margin-bottom: var(--space-7);">
       <div class="col-12">
-        <span class="eyebrow">What it covers</span>
-        <h2 style="max-width: 22ch; margin-top: var(--space-3);">Three things every accredited employer must do — done quietly, in the background.</h2>
+        <span class="eyebrow">{{ .Params.what_it_covers.eyebrow }}</span>
+        <h2 style="max-width: 22ch; margin-top: var(--space-3);">{{ .Params.what_it_covers.title }}</h2>
       </div>
     </div>
     <div class="grid-12">
+      {{ range .Params.what_it_covers.cards }}
       <div class="col-4">
         {{ partial "card.html" (dict
-          "index" "01"
-          "title" "Accreditation upkeep"
-          "body" "Track the conditions tied to your accreditation. Renewals, declarations, settlement information — surfaced before they bite."
+          "index" .index
+          "title" .title
+          "body" .body
         ) }}
       </div>
-      <div class="col-4">
-        {{ partial "card.html" (dict
-          "index" "02"
-          "title" "Job check evidence"
-          "body" "Capture the labour market test, advertised role, and pay band against each visa hire. Audit-ready in one place."
-        ) }}
-      </div>
-      <div class="col-4">
-        {{ partial "card.html" (dict
-          "index" "03"
-          "title" "Ongoing employer obligations"
-          "body" "Wage thresholds, role boundaries, hours, and reporting — flagged when something drifts, not after the audit."
-        ) }}
-      </div>
+      {{ end }}
     </div>
   </div>
 </section>
@@ -44,13 +32,11 @@
   <div class="container">
     <div class="grid-12">
       <div class="col-4">
-        <span class="eyebrow">Why we're building this</span>
-        <h2 style="margin-top: var(--space-3); max-width: 18ch;">Compliance is a tax on growth. It doesn't have to be.</h2>
+        <span class="eyebrow">{{ .Params.why_building.eyebrow }}</span>
+        <h2 style="margin-top: var(--space-3); max-width: 18ch;">{{ .Params.why_building.title }}</h2>
       </div>
       <div class="col-7 col-start-6 prose">
-        <p>The Accredited Employer Work Visa changed the rules. Employers carry more weight, more record-keeping, and more risk than ever before. Most teams handle it with shared drives, screenshots, and goodwill.</p>
-        <p>We're building a calm tool that does the boring parts well — so your accreditation is never the thing that breaks.</p>
-        <p>Right now, we're talking to accredited employers. <a href="#cta">Five questions, five minutes</a> — and we'll show you what we build.</p>
+        {{ .Params.why_building.body | safeHTML }}
       </div>
     </div>
   </div>
@@ -88,9 +74,9 @@
   <div class="container">
     <div class="grid-12">
       <div class="col-4">
-        <span class="eyebrow">Help shape it</span>
-        <h2 style="margin-top: var(--space-3); max-width: 16ch;">Tell us where AEWV hurts most.</h2>
-        <p class="muted mt-4" style="max-width: 40ch;">Your answers go straight to the team building this. No marketing list. No follow-up unless you ask.</p>
+        <span class="eyebrow">{{ .Params.cta.eyebrow }}</span>
+        <h2 style="margin-top: var(--space-3); max-width: 16ch;">{{ .Params.cta.title }}</h2>
+        <p class="muted mt-4" style="max-width: 40ch;">{{ .Params.cta.description }}</p>
       </div>
       <div class="col-7 col-start-6">
         {{ partial "form-survey.html" . }}
