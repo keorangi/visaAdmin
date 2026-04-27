@@ -40,6 +40,7 @@ enableEmoji = false
     fromName = "AEWV Compliance website"
     surveySubject = "AEWV Compliance — survey submission"
     emailSubject = "AEWV Compliance — notify-me signup"
+    pollSubject = "AEWV Compliance — blog poll response"
 
   [params.seo]
     # OpenGraph / Twitter / JSON-LD defaults.

@@ -48,8 +48,17 @@ fields:
     rows: 4
     placeholder: "Plain language, no need to polish."
 
+  - name: respondent_type
+    label: "Which best describes you?"
+    type: radio
+    required: true
+    options:
+      - { value: "employer", label: "Employer / accredited business" }
+      - { value: "advisor", label: "Immigration adviser, agent, or consultant" }
+      - { value: "other", label: "Other" }
+
   - name: annual_budget_nzd
-    label: "What would your organisation reasonably pay per year for an audit-ready AEWV compliance platform?"
+    label: "How much does your organisation (or your clients) currently pay per year for AEWV compliance support — including agents, consultants, or software?"
     type: radio
     required: false
     options:

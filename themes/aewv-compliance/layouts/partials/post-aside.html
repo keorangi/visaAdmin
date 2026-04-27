@@ -1,0 +1,83 @@
+{{- $forms := site.Params.forms -}}
+{{- $accessKey := $forms.accessKey -}}
+{{- $poll := .Params.poll -}}
+<aside class="post-aside" aria-label="From the team">
+  {{- if and $poll $poll.question $poll.options }}
+  {{- $action := cond (and $accessKey (ne $accessKey "")) $forms.emailEndpoint "#" -}}
+  <form
+    class="poll"
+    data-form="poll"
+    action="{{ $action }}"
+    method="{{ $forms.method | default "POST" }}"
+    data-thanks="Thanks — noted."
+    novalidate
+  >
+    {{ if and $accessKey (ne $accessKey "") }}
+    <input type="hidden" name="access_key" value="{{ $accessKey }}">
+    <input type="hidden" name="subject" value="{{ $forms.pollSubject | default "Blog poll response" }}">
+    <input type="hidden" name="from_name" value="{{ $forms.fromName | default site.Title }}">
+    <input type="hidden" name="post_title" value="{{ .Title }}">
+    <input type="hidden" name="post_url" value="{{ .Permalink }}">
+    <input type="hidden" name="poll_question" value="{{ $poll.question }}">
+    {{ end }}
+
+    <div class="poll__kicker">{{ with $poll.kicker }}{{ . }}{{ else }}Quick read{{ end }}</div>
+    <p class="poll__question">{{ $poll.question }}</p>
+
+    <div class="poll__options">
+      {{ range $i, $opt := $poll.options }}
+      <button
+        type="submit"
+        class="poll__option"
+        name="poll_answer"
+        value="{{ $opt }}"
+      >{{ $opt }}</button>
+      {{ end }}
+    </div>
+
+    {{/* Honeypot */}}
+    <div aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+      <label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+    </div>
+
+    <p class="form-message poll__message" role="status" aria-live="polite"></p>
+    <small class="poll__help">One tap. Anonymous unless you write back to us.</small>
+  </form>
+  {{- else -}}
+  {{- $action := cond (and $accessKey (ne $accessKey "")) $forms.emailEndpoint "#" -}}
+  <form
+    class="form post-aside__form"
+    data-form="email"
+    action="{{ $action }}"
+    method="{{ $forms.method | default "POST" }}"
+    data-thanks="Thanks. We'll be in touch."
+    novalidate
+  >
+    {{ if and $accessKey (ne $accessKey "") }}
+    <input type="hidden" name="access_key" value="{{ $accessKey }}">
+    <input type="hidden" name="subject" value="{{ $forms.emailSubject | default "Website signup" }}">
+    <input type="hidden" name="from_name" value="{{ $forms.fromName | default site.Title }}">
+    <input type="hidden" name="source" value="post-aside:{{ .RelPermalink }}">
+    {{ end }}
+    <div class="form-row">
+      <label for="aside-email">Stay informed</label>
+      <input
+        class="form-input"
+        type="email"
+        id="aside-email"
+        name="email"
+        required
+        placeholder="you@company.co.nz"
+        autocomplete="email"
+        spellcheck="false"
+      >
+      <button type="submit" class="btn">Notify me</button>
+      <small class="form-help">No spam. Updates only if you opt in.</small>
+    </div>
+    <div aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+      <label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+    </div>
+    <p class="form-message" role="status" aria-live="polite"></p>
+  </form>
+  {{- end }}
+</aside>

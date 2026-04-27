@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-description: "Engage the AEWV Compliance team — audit-readiness platform for New Zealand accredited employers."
+description: "Engage the team scoping AEWV Compliance — a proposed audit-readiness platform for New Zealand accredited employers."
 ---
 
-For accredited employers and immigration advisers wishing to engage with the AEWV Compliance team, the [home page survey]({{< ref "/" >}}) is the fastest channel. Direct enquiries are welcome by email.
+For accredited employers and immigration advisers wishing to engage with the team scoping AEWV Compliance, the [home page survey]({{< ref "/" >}}) is the fastest channel. Direct enquiries are welcome by email.
 
 **Email** — hello@aewvcompliance.co.nz
 

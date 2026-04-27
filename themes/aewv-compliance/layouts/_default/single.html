@@ -11,9 +11,20 @@
     {{ end }}
   </div>
 </header>
+{{ if eq .Section "blog" }}
+<div class="container post-grid">
+  <article class="post-grid__main">
+    <div class="prose">
+      {{ .Content }}
+    </div>
+  </article>
+  {{ partial "post-aside.html" . }}
+</div>
+{{ else }}
 <article class="container">
   <div class="prose">
     {{ .Content }}
   </div>
 </article>
+{{ end }}
 {{ end }}
