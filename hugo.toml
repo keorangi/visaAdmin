@@ -29,13 +29,17 @@ enableEmoji = false
     proseWidth = "68ch"
 
   [params.forms]
-    # Forms POST to the standalone Go service in service/forms/.
-    # Run it locally: `cd service/forms && make run` (listens on :8080).
-    # In production, replace with your deployed origin.
-    # While "#": JS intercepts and shows a local-only thank-you (useful for static preview).
-    emailEndpoint = "#"
-    surveyEndpoint = "#"
+    # Web3Forms — free tier, 250 submissions/month, no account back-end to host.
+    # Sign up at https://web3forms.com, paste your access key below.
+    # The key is intentionally public (it only authorises sending to your registered inbox).
+    # Leave accessKey empty to keep the local-preview thank-you (no network call).
+    emailEndpoint = "https://api.web3forms.com/submit"
+    surveyEndpoint = "https://api.web3forms.com/submit"
     method = "POST"
+    accessKey = "6d293675-bb5f-4805-b212-a9472d66888f"
+    fromName = "AEWV Compliance website"
+    surveySubject = "AEWV Compliance — survey submission"
+    emailSubject = "AEWV Compliance — notify-me signup"
 
   [params.seo]
     # OpenGraph / Twitter / JSON-LD defaults.
@@ -43,7 +47,6 @@ enableEmoji = false
     siteName = "AEWV Compliance"
     twitter = ""                      # e.g. "@aewvcompliance"
     locale = "en_NZ"
-    organizationLegalName = "AEWV Compliance Ltd."
     organizationEmail = "hello@aewvcompliance.co.nz"
     organizationCountry = "NZ"
     organizationFoundingYear = 2026

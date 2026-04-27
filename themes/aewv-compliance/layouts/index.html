@@ -42,6 +42,29 @@
   </div>
 </section>
 
+{{ with .Params.why_us }}
+<section class="section section--bordered">
+  <div class="container">
+    <div class="grid-12" style="margin-bottom: var(--space-7);">
+      <div class="col-12">
+        <span class="eyebrow">{{ .eyebrow }}</span>
+        <h2 style="max-width: 24ch; margin-top: var(--space-3);">{{ .title }}</h2>
+      </div>
+    </div>
+    <div class="grid-12">
+      {{ range .cards }}
+      <div class="col-4">
+        {{ partial "card.html" (dict
+          "title" .title
+          "body" .body
+        ) }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{ $posts := where site.RegularPages "Section" "blog" | first 3 }}
 {{ if $posts }}
 <section class="section section--bordered">

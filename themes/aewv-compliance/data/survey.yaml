@@ -48,12 +48,14 @@ fields:
     rows: 4
     placeholder: "Plain language, no need to polish."
 
-  - name: willingness
-    label: "Would you pay for a tool that simplified ongoing AEWV compliance?"
+  - name: annual_budget_nzd
+    label: "What would your organisation reasonably pay per year for an audit-ready AEWV compliance platform?"
     type: radio
     required: false
     options:
-      - { value: "definitely", label: "Definitely" }
-      - { value: "probably", label: "Probably" }
-      - { value: "unsure", label: "Unsure" }
-      - { value: "no", label: "No" }
+      - { value: "under_1k", label: "Under $1,000" }
+      - { value: "1k_3k", label: "$1,000 – $3,000" }
+      - { value: "3k_10k", label: "$3,000 – $10,000" }
+      - { value: "10k_25k", label: "$10,000 – $25,000" }
+      - { value: "25k_plus", label: "$25,000+" }
+      - { value: "depends_on_workers", label: "Depends on number of migrant workers" }

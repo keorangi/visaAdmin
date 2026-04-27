@@ -1,21 +1,21 @@
 ---
-title: "Hello, and what we're building"
+title: "What we are building, and the standard we are building it to"
 date: 2026-04-27
-description: "Why AEWV Compliance exists, and how we're approaching it."
+description: "An introduction to AEWV Compliance — a Strategic Compliance & Audit-Readiness Platform engineered for Post-Accreditation Checks, the 2026 National Occupation List, and MSD engagement obligations."
 ---
 
-This is the first post in what we hope is a quiet, useful trickle of writing about AEWV compliance and what we're learning while building.
+This is the opening note from the team building AEWV Compliance — a Strategic Compliance & Audit-Readiness Platform for New Zealand accredited employers.
 
-## Three principles
+The platform exists for one reason: the consequences of getting AEWV compliance wrong have escalated. A Post-Accreditation Check that surfaces a gap can produce an infringement notice, the loss of accreditation, and placement on the INZ Stand-down List. For most accredited employers, that is a material business event — not a paperwork problem.
 
-We are starting with three principles, and we expect to be wrong about at least one of them.
+## The principles guiding the build
 
-1. Compliance work should be invisible until it isn't.
-2. Evidence should be captured at the source, not reconstructed.
-3. Employers want to do this right. The tools just have to make it easy.
+1. **Audit-Ready Record Keeping is the deliverable.** The platform's job is to produce a defensible record at the moment INZ asks for it — not to help you reconstruct one.
+2. **Evidence is captured at the point of decision.** Role mapping against the 2026 National Occupation List, settlement information delivery, MSD engagement, wage threshold checks — each is timestamped where it happens.
+3. **Drift is a risk, not an inconvenience.** Wage thresholds, hours, and role boundaries are monitored continuously, so a slow drift never becomes an infringement notice.
 
-If you'd like to shape what we build, the [survey]({{< ref "/" >}}) is the door.
+If your organisation holds AEWV accreditation and you would like to shape the platform against real audit experience, the [survey]({{< ref "/" >}}) is the fastest way to contribute.
 
 {{< callout type="warning" >}}
-**A note on advice.** Anything we write here is general — not legal, immigration, or compliance advice. For decisions about your business, talk to a licensed immigration adviser or a NZ-qualified lawyer.
+**On the nature of this writing.** The notes published here are general commentary on the AEWV regime and accredited employer obligations. They are not legal, immigration, or compliance advice. For decisions affecting your organisation, engage a licensed immigration adviser or a NZ-qualified lawyer.
 {{< /callout >}}

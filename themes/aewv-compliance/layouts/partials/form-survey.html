@@ -1,4 +1,7 @@
 {{- $survey := site.Data.survey -}}
+{{- $forms := site.Params.forms -}}
+{{- $accessKey := $forms.accessKey -}}
+{{- $action := cond (and $accessKey (ne $accessKey "")) $forms.surveyEndpoint "#" -}}
 
 {{ with $survey.disclaimer }}
 <div class="form-disclaimer" style="background: var(--color-bg-muted); border-left: 3px solid var(--color-border); padding: var(--space-4); margin-bottom: var(--space-5); border-radius: 4px; font-size: 0.9rem; line-height: 1.6;">
@@ -9,11 +12,16 @@
 <form
   class="form"
   data-form="survey"
-  action="{{ site.Params.forms.surveyEndpoint }}"
-  method="{{ site.Params.forms.method | default "POST" }}"
+  action="{{ $action }}"
+  method="{{ $forms.method | default "POST" }}"
   data-thanks="{{ $survey.thanks }}"
   novalidate
 >
+  {{ if and $accessKey (ne $accessKey "") }}
+  <input type="hidden" name="access_key" value="{{ $accessKey }}">
+  <input type="hidden" name="subject" value="{{ $forms.surveySubject | default "Website survey submission" }}">
+  <input type="hidden" name="from_name" value="{{ $forms.fromName | default site.Title }}">
+  {{ end }}
   {{ with $survey.intro }}<p class="muted">{{ . }}</p>{{ end }}
 
   {{ range $survey.fields }}

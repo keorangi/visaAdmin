@@ -1,14 +1,14 @@
 ---
 title: "Contact"
-description: "Reach the AEWV Compliance team."
+description: "Engage the AEWV Compliance team — audit-readiness platform for New Zealand accredited employers."
 ---
 
-The fastest way to reach us is the [home page survey]({{< ref "/" >}}) or directly by email.
+For accredited employers and immigration advisers wishing to engage with the AEWV Compliance team, the [home page survey]({{< ref "/" >}}) is the fastest channel. Direct enquiries are welcome by email.
 
 **Email** — hello@aewvcompliance.co.nz
 
-We read everything. We reply within two working days.
+We read every enquiry and respond within two working days.
 
 {{< callout type="info" >}}
-We're a New Zealand team. We respond during NZ business hours (NZST/NZDT).
+We are a New Zealand team operating during NZ business hours (NZST/NZDT). For urgent immigration matters — including imminent Post-Accreditation Checks, infringement notices, or compliance escalations — please consult a licensed immigration adviser or NZ-qualified lawyer in addition to contacting us.
 {{< /callout >}}

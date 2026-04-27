@@ -1,44 +1,66 @@
 ---
 title: "AEWV Compliance"
-description: "Stay accredited without the spreadsheets. AEWV Compliance helps New Zealand employers meet Immigration NZ obligations with calm, audit-ready records."
+description: "The Strategic Compliance & Audit-Readiness Platform for New Zealand Accredited Employers. Built for Post-Accreditation Checks, NOL role mapping, and MSD engagement logging."
 keywords:
   - AEWV
   - accredited employer work visa
+  - post-accreditation check
   - immigration compliance
+  - National Occupation List
+  - MSD engagement
+  - audit-ready record keeping
   - New Zealand employer
-  - migrant worker compliance
 
 hero:
-  eyebrow: "AEWV compliance, simplified"
-  title: "Stay accredited. <em>Without the spreadsheets.</em>"
-  lede: "AEWV Compliance helps New Zealand employers meet Immigration New Zealand obligations with calm, audit-ready records — built for HR teams, founders, and operators."
+  eyebrow: "Strategic compliance & audit-readiness"
+  title: "Accreditation is a standard. <em>We help you hold it.</em>"
+  lede: "AEWV Compliance is the audit-readiness platform for New Zealand accredited employers — engineered for Post-Accreditation Checks, infringement risk, and the realities of the 2026 immigration settings."
 
 what_it_covers:
-  eyebrow: "What it covers"
-  title: "Three things every accredited employer must do — done quietly, in the background."
+  eyebrow: "Three obligations. One defensible record."
+  title: "Built for the way Immigration New Zealand actually checks your file."
   cards:
     - index: "01"
-      title: "Accreditation upkeep"
-      body: "Track the conditions tied to your accreditation. Renewals, declarations, settlement information — surfaced before they bite."
+      title: "Audit-Ready Record Keeping"
+      body: "Every accreditation condition, declaration, and renewal trigger held against a single defensible record — produced on demand for Post-Accreditation Checks, not reconstructed under audit pressure."
     - index: "02"
-      title: "Job check evidence"
-      body: "Capture the labour market test, advertised role, and pay band against each visa hire. Audit-ready in one place."
+      title: "Job Check & NOL Role Mapping"
+      body: "Capture the labour market test, advertised role, pay band, and 2026 National Occupation List (NOL) mapping against each hire. Evidence the role decision the way INZ will read it back."
     - index: "03"
-      title: "Ongoing employer obligations"
-      body: "Wage thresholds, role boundaries, hours, and reporting — flagged when something drifts, not after the audit."
+      title: "Proactive Workforce Continuity & Renewal Management"
+      body: "Visa expiries, wage threshold drift, role boundary breaches, and MSD engagement obligations surfaced before they become infringement notices — protecting both your workforce and your accreditation."
 
 why_building:
-  eyebrow: "Why we're building this"
-  title: "Compliance is a tax on growth. It doesn't have to be."
+  eyebrow: "The cost of getting it wrong"
+  title: "Loss of accreditation is a business event, not a paperwork problem."
   body: |
-    The Accredited Employer Work Visa changed the rules. Employers carry more weight, more record-keeping, and more risk than ever before. Most teams handle it with shared drives, screenshots, and goodwill.
+    A failed Post-Accreditation Check, an infringement notice, or a placement on the INZ **Stand-down List** doesn't just sting — it stops migrant hiring, exposes existing visa holders, and signals risk to your customers, board, and bankers.
 
-    We're building a calm tool that does the boring parts well — so your accreditation is never the thing that breaks.
+    Most accredited employers carry this risk on shared drives, screenshots, and the goodwill of one person in HR. That isn't a compliance posture. It's a single point of failure.
 
-    Right now, we're talking to accredited employers. <a href="#cta">Five questions, five minutes</a> — and we'll show you what we build.
+    AEWV Compliance is the deliberate alternative: a calm, authoritative system of record built around the obligations Immigration New Zealand actually enforces — the 2026 NOL framework, MSD engagement logging, settlement information delivery, and the evidentiary standard expected at audit.
+
+    We are currently engaging directly with accredited employers to refine the platform. <a href="#cta">Five questions, five minutes</a> — and we will share what we are building.
+
+why_us:
+  eyebrow: "Why accredited employers choose us"
+  title: "Designed around the obligations that put your accreditation at risk."
+  cards:
+    - title: "Audit-Ready Record Keeping"
+      body: "Every decision, declaration, and document indexed against the AEWV obligation it satisfies. When the Post-Accreditation Check arrives, the file is already assembled."
+    - title: "Automated Settlement Information Delivery"
+      body: "Settlement information issued, acknowledged, and timestamped within the required window for every migrant hire — closing one of the most common audit findings without manual chasing."
+    - title: "NOL Role Mapping, Held to the Job"
+      body: "Each role mapped against the 2026 National Occupation List, with the supporting evidence and pay-band reasoning captured at the point of decision — not retrofitted later."
+    - title: "MSD Engagement Logging"
+      body: "Every required engagement with the Ministry of Social Development logged with date, role, outcome, and evidence — so the labour market test stands up under scrutiny."
+    - title: "Drift Detection on Live Obligations"
+      body: "Wage thresholds, hours, role boundaries, and visa milestones monitored continuously. Issues are flagged while they are still fixable — well before they become infringement notices."
+    - title: "One Defensible System of Record"
+      body: "No more shared drives, screenshots, or reconstructed email threads. A single, time-stamped record built to the evidentiary standard INZ applies at audit."
 
 cta:
   eyebrow: "Help shape it"
-  title: "Tell us where AEWV hurts most."
-  description: "Your answers go straight to the team building this. No marketing list. No follow-up unless you ask."
+  title: "Tell us where AEWV compliance is exposing your business."
+  description: "Your answers go directly to the team building the platform. No marketing list. No follow-up unless you ask for one."
 ---

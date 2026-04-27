@@ -1,11 +1,19 @@
+{{- $forms := site.Params.forms -}}
+{{- $accessKey := $forms.accessKey -}}
+{{- $action := cond (and $accessKey (ne $accessKey "")) $forms.emailEndpoint "#" -}}
 <form
   class="form"
   data-form="email"
-  action="{{ site.Params.forms.emailEndpoint }}"
-  method="{{ site.Params.forms.method | default "POST" }}"
+  action="{{ $action }}"
+  method="{{ $forms.method | default "POST" }}"
   data-thanks="Thanks. We'll be in touch."
   novalidate
 >
+  {{ if and $accessKey (ne $accessKey "") }}
+  <input type="hidden" name="access_key" value="{{ $accessKey }}">
+  <input type="hidden" name="subject" value="{{ $forms.emailSubject | default "Website signup" }}">
+  <input type="hidden" name="from_name" value="{{ $forms.fromName | default site.Title }}">
+  {{ end }}
   <div class="form-row">
     <label for="hero-email">Stay informed</label>
     <div class="form-inline">

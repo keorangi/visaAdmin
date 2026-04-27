@@ -1,22 +1,30 @@
 ---
 title: "About"
-description: "Why we're building AEWV Compliance — a calm tool for New Zealand employers carrying the weight of accreditation."
+description: "AEWV Compliance is a Strategic Compliance & Audit-Readiness Platform for New Zealand accredited employers — built around Post-Accreditation Checks, the National Occupation List, and MSD engagement obligations."
 keywords:
   - AEWV
   - accredited employer
+  - audit-ready
+  - National Occupation List
   - New Zealand
 ---
 
-We are a small team building tools for New Zealand employers who carry the weight of migrant worker accreditation.
+We build compliance infrastructure for New Zealand employers who hold — and intend to hold — Accredited Employer status under the AEWV regime.
 
-We started AEWV Compliance because the people we know in HR were keeping audit evidence in shared drives, screenshots, and email threads. The work mattered. The tools didn't.
+AEWV Compliance is not a checklist tool. It is a Strategic Compliance & Audit-Readiness Platform: a defensible system of record built around the obligations Immigration New Zealand actually enforces at a Post-Accreditation Check.
+
+## The standard we build to
+
+The AEWV framework places weight on the employer, not the migrant. Wage thresholds, role boundaries, settlement information, labour market testing, the 2026 National Occupation List, and required engagement with the Ministry of Social Development are all employer obligations — and each one is a potential audit finding.
+
+Our standard is simple: a record that holds up at audit, prepared at the point of decision rather than reconstructed under pressure.
 
 ## What we believe
 
-- Compliance should be quiet. If you're hearing about it, something has already gone wrong.
-- Audit evidence should be collected once, at the moment of decision — not reconstructed under pressure.
-- Employers are not the enemy of the immigration system. They are the front line of it.
+- **Compliance is a board-level risk.** A failed Post-Accreditation Check, an infringement notice, or a placement on the INZ Stand-down List affects hiring, retention, and reputation. It deserves the same rigour as financial controls.
+- **Evidence is captured, not remembered.** Every visa decision, role mapping, settlement information delivery, and MSD engagement should be timestamped at the moment it happens.
+- **Accredited employers are the front line of the immigration system.** The platform should support that role, not add friction to it.
 
-## What we're doing now
+## Where we are now
 
-We are talking to accredited employers — small, large, and in between — to understand what would actually help. If that's you, the [survey on the home page]({{< ref "/" >}}) is the fastest way in.
+We are engaging directly with accredited employers — across construction, hospitality, healthcare, primary industries, and professional services — to refine the platform against real audit experience. If your organisation holds AEWV accreditation, the [survey on the home page]({{< ref "/" >}}) is the most direct way to contribute.
