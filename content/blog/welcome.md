@@ -1,7 +1,13 @@
 ---
 title: "What we're sketching, and why we're asking before we build"
 date: 2026-04-27
+slug: "what-were-sketching"
+aliases:
+  - /blog/what-were-sketching-and-why-were-asking-before-we-build/
 description: "An introduction from the team scoping AEWV Compliance — a tool for accredited employers, around Post-Accreditation Checks, the 2026 National Occupation List, and MSD engagement obligations. Nothing's built yet. We're asking employers what's hard."
+tags:
+  - AEWV
+  - field notes
 poll:
   question: "Of these, which carries the most weight at your place right now?"
   options:
@@ -18,7 +24,7 @@ The reason this work exists at all: the consequences of getting AEWV compliance 
 ## The thinking we've put down so far
 
 1. **Audit-Ready Record Keeping is the deliverable.** If we build it, the job would be to produce a defensible record at the moment INZ asks for it — not to help you reconstruct one.
-2. **Evidence captured at the point of decision.** Role mapping against the 2026 NOL, settlement information delivery, MSD engagement, wage threshold checks — each timestamped where it happens, not pieced together later.
+2. **Evidence captured at the point of decision.** Role mapping against the [2026 National Occupation List]({{< ref "/blog/national-occupation-list-2026" >}}), settlement information delivery, MSD engagement, wage threshold checks — each timestamped where it happens, not pieced together later.
 3. **Drift is a risk, not an inconvenience.** Wage thresholds, hours, and role boundaries would need to be monitored continuously, so a slow drift never becomes an infringement notice.
 
 That's the shape. We don't know yet whether it matches the load you actually carry, or whether the gap is somewhere else entirely. That's what we'd value hearing about.
