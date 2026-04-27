@@ -1,6 +1,7 @@
-intro: "Five questions, five minutes. The answers go straight to the team building this."
+intro: "Five questions, five minutes. This is a research survey. Your answers help us understand the AEWV compliance landscape."
+disclaimer: "**Important**: Submitting this survey does not guarantee a service, product, early access, or follow-up. We may not respond to every submission. Your data is used for research and product validation only. See our [Terms & Conditions](/terms) and [Privacy Policy](/privacy) for full details."
 submit: "Send"
-thanks: "Thanks. We'll be in touch."
+thanks: "Thanks for your input. We'll use this to understand the landscape better."
 
 fields:
   - name: company_name
