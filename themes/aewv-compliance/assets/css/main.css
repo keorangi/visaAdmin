@@ -576,7 +576,16 @@ hr {
 
 @media (max-width: 480px) {
   .form-inline { flex-direction: column; }
+  .form-inline .form-input { flex: 0 0 auto; }
   .form-inline .btn { width: 100%; }
+}
+
+@media (max-width: 767px) {
+  .hero__aside .form { gap: var(--space-3); }
+  .hero__aside .form-row { gap: var(--space-2); }
+  .hero__aside .form-row > label { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+  .hero__aside .form-help { line-height: var(--lh-snug); }
+  .hero__aside .form-message { min-height: 0; }
 }
 
 .form-message {
