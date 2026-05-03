@@ -42,6 +42,11 @@ enableEmoji = false
     emailSubject = "AEWV Compliance — notify-me signup"
     pollSubject = "AEWV Compliance — blog poll response"
 
+  [params.umami]
+    # Self-hosted Umami analytics. Loaded only in production builds (hugo --environment production).
+    src = "https://analytics.rentrant.nz/script.js"
+    websiteId = "42c57abb-de29-48a6-bd32-4c166cefcdcf"
+
   [params.seo]
     # OpenGraph / Twitter / JSON-LD defaults.
     # Per-page front matter overrides any of these.
