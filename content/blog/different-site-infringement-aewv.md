@@ -91,20 +91,3 @@ You may also want to revisit the [opening note from the team]({{< ref "/blog/wel
 
 [^1]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^2]: Worker Protection (Migrant and Other Employees) Act 2023, s 359A; Immigration Act 2009, s 49 (visa conditions). New Zealand legislation, current as at 2026-05-03. <https://www.legislation.govt.nz/act/public/2023/0029/latest/whole.html>
-
----
-
-HANDOVER
-
-- **Hypothesis result:** partially confirmed. Site-mismatch breaches are clearly captured by the regime and clearly enforceable as infringements; the "most common reason" framing in the brief was softened to "breach pattern worth checking first" because INZ has not published enforcement-volume data at breach-type granularity. Two-source rule could not be met for the volume claim.
-- **Sources rated weakest→strongest:**
-  1. INZ news-centre page on the infringement scheme — primary but a summary; prefer the underlying instructions if a deeper-cited piece is wanted.
-  2. Worker Protection (Migrant and Other Employees) Act 2023, s 359A — strongest. Verify the section number against the current consolidation before publish, as the Act has been amended since assent.
-- **Claims that could not be verified and were therefore cut:** "Most-cited reason for infringement notices" (no published volume breakdown). Specific dollar totals collected to date.
-- **Right-of-reply status:** no third parties named.
-- **Internal-link suggestions wired:** `/` (home-page survey) and `/blog/welcome`. Suggested also: a future post on Job Check evidence for mobile roles (would link from §"Mobile and travelling roles").
-- **Suggested primary keyword variants checked:** "AEWV work location", "AEWV different site", "section 359A infringement", "migrant worker site change". "AEWV work location" reads most naturally and is the chosen primary.
-- **Open questions for the editor:**
-  1. Confirm the Worker Protection Act URL and section number against the current legislation.govt.nz consolidation; the 2023/0029 numbering reflects the Act as enacted but the section number for the infringement-eligible breach has been re-cited inconsistently in adviser commentary.
-  2. Decide whether the commercial-interest disclosure ("scoping a tool in this area") is too on-the-nose for this piece or pitched right.
-  3. The poll question asks employers to self-incriminate ("trust and hope"). House the answer set anonymised.

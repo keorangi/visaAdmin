@@ -107,21 +107,3 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 [^1]: Immigration New Zealand, *AEWV employer accreditation and Job Check process*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/aewv-job-check-process>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^3]: Immigration New Zealand, *Recognising National Occupation List (NOL) occupations in the AEWV*, news centre item, 2026. <https://www.immigration.govt.nz/about-us/news-centre/recognising-national-occupation-list-nol-occupations-in-the-accredited-employer-work-visa-aewv/>
-
----
-
-HANDOVER
-
-- **Hypothesis result:** partially confirmed. The decline patterns are well evidenced from INZ's own rule documents and from the Post-Accreditation Check guide. The "most common reason" framing in the brief was deliberately not adopted because the volume breakdown is not public; the post calls them "patterns" instead.
-- **Sources rated weakest→strongest:**
-  1. Pattern 5 (assessor variability) is supported by anecdotal accredited-employer reports, not a primary source. It is flagged as a pattern, not a rule. Editor: cut if uncomfortable.
-  2. INZ Job Check process page — first-party but a summary; the binding instructions live in the Operational Manual WI sections.
-  3. INZ Post-Accreditation Check guide — strong, recently updated.
-- **Claims that could not be verified and were therefore cut:** specific decline rate percentages; references to NZIHS-style adviser blog statistics (the source noted in the research doc is a vendor blog and would breach the prompt's primary-source rule).
-- **Right-of-reply status:** no third parties named.
-- **Internal-link suggestions wired:** `/` (home-page survey) and `/blog/welcome`. Future links: a future audit-evidence post would belong under "What to do this week" item 1; a future market-rate-reasoning deep-dive would link from Pattern 2.
-- **Suggested primary keyword variants checked:** "AEWV Job Check declined", "Job Check refusal AEWV", "why was my Job Check declined". The chosen phrase covers the head term.
-- **Open questions for the editor:**
-  1. Pattern 5 is the most editorial paragraph in the piece — it is a soft analysis claim, not a cited fact. Decide whether to keep, soften, or remove.
-  2. Verify the Job Check process URL slug; INZ has changed the path twice since the AEWV launched.
-  3. Consider adding a short worked example for market-rate reasoning if length permits.

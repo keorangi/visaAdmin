@@ -93,18 +93,3 @@ For broader context on what the team is sketching, see the [opening note]({{< re
 [^1]: Immigration New Zealand, *If things change for AEWV accredited employers*, INZ employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/if-things-change-for-aewv-accredited-employers>
 [^2]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^3]: Immigration New Zealand, *Update to simplified Accredited Employer Work Visa (AEWV) job change process*, news centre item, 2025. <https://www.immigration.govt.nz/about-us/news-centre/update-to-simplified-accredited-employer-work-visa-aewv-job-change-process/>
-
----
-
-HANDOVER
-
-- **Hypothesis result:** confirmed. The 10-working-day rule and the decision-date trigger are well evidenced from INZ's own guidance; the post is mostly explanatory, not contested.
-- **Sources rated weakest→strongest:** all three are INZ first-party. Strongest is the *If things change* page (sets the rule); the Infringement Scheme page is supplementary; the simplified job-change page is recent and worth re-checking the URL slug at publish time as INZ has a habit of restructuring news-centre paths.
-- **Claims that could not be verified and were therefore cut:** none material; no enforcement statistics asserted.
-- **Right-of-reply status:** no third parties named.
-- **Internal-link suggestions wired:** `/` (home-page survey) and `/blog/welcome`. Future link to a Post-Accreditation Check evidence post when written.
-- **Suggested primary keyword variants checked:** "AEWV worker resignation notify INZ", "10 working days notification AEWV", "migrant worker leaves AEWV employer". The chosen primary phrase reads most naturally in body copy.
-- **Open questions for the editor:**
-  1. Confirm the *If things change* URL — INZ has multiple very similar pages under both `/work/for-employers/` and `/employ-migrants/`. Pick the canonical one and update inline.
-  2. Decide whether to add a worked example (date math from a hypothetical resignation through to notification deadline). Cut for length but it would make the clock concrete.
-  3. The "audit the last six months" recommendation is operationally aggressive. Confirm tone before publish.

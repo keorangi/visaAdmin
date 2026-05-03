@@ -103,21 +103,3 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 [^3]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^4]: Immigration New Zealand, *Update to simplified Accredited Employer Work Visa (AEWV) job change process*, news centre item, 2025. <https://www.immigration.govt.nz/about-us/news-centre/update-to-simplified-accredited-employer-work-visa-aewv-job-change-process/>
 [^5]: Pitt & Moore, *Redundancy basics and considerations for migrant workers*, firm publication. Used here for the practitioner framing of the redundancy question; the controlling rules are in the Immigration Act 2009 and the Employment Relations Act 2000. <https://www.pittandmoore.co.nz/publications/redundancy-basics-and-considerations-for-migrant-workers/>
-
----
-
-HANDOVER
-
-- **Hypothesis result:** confirmed. Accreditation non-transferability and the two-path framing are well evidenced from INZ's own pages.
-- **Sources rated weakest→strongest:**
-  1. Pitt & Moore publication on redundancy — secondary, used only for framing; the controlling rules are statutory and should be the binding citation if the redundancy section is expanded.
-  2. INZ news-centre items (Infringement Scheme, simplified job change) — first-party but summary; if a deeper-cited piece is wanted, the Operational Manual WI sections are the underlying source.
-  3. INZ employer guidance pages on transferring workers and "if things change" — strongest first-party. Verify the URLs at publish; INZ has restructured `/employ-migrants/` paths in the past 12 months.
-- **Claims that could not be verified and were therefore cut:** specific deal-stall statistics; specific INZ processing times for acquirer accreditations.
-- **Right-of-reply status:** Pitt & Moore is named as a publication source, not in a critical light; no right-of-reply concern.
-- **Internal-link suggestions wired:** `/` (home-page survey) and `/blog/welcome`. Future links: the 10-working-day notification post pairs with §"Where the migrant question gets surfaced too late"; the audit-evidence post (when written) pairs with §"What due diligence on the migrant workforce actually checks".
-- **Suggested primary keyword variants checked:** "AEWV business sale migrant workers", "restructure AEWV accreditation", "transfer migrant workers sale". The chosen phrasing is in the title and lede.
-- **Open questions for the editor:**
-  1. Confirm whether to retain the Pitt & Moore citation or replace it with a direct statutory link to the Employment Relations Act 2000.
-  2. The piece touches employment law (redundancy) more than the others. Consider whether a tighter scope to immigration-only would read better; current shape was kept because the redundancy lens is where the migrant question actually surfaces in deals.
-  3. The "due diligence checklist" section is the most directly useful part of the post. It may belong as a downloadable when validation phase ends — flag for later product roadmap.
