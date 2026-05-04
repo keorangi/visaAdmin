@@ -61,9 +61,23 @@
           body: data,
           headers: { 'Accept': 'application/json' },
         });
-        if (!res.ok) throw new Error('Request failed (' + res.status + ')');
-        if (status) { status.dataset.state = 'ok'; status.textContent = thanks; }
-        form.reset();
+        if (res.ok) {
+          if (status) { status.dataset.state = 'ok'; status.textContent = thanks; }
+          form.reset();
+        } else {
+          let serverMsg = '';
+          try { const j = await res.json(); serverMsg = j.message || ''; } catch (_) {}
+          if (status) {
+            status.dataset.state = 'error';
+            if (res.status >= 400 && res.status < 500) {
+              status.textContent = /spam/i.test(serverMsg)
+                ? "Submission likely blocked by our spam filters. If this is genuine, email hello@aewvcompliance.co.nz."
+                : "Submission may not have gone through. Please check the fields and try again.";
+            } else {
+              status.textContent = 'Our submission service is currently unavailable. Please try again later, or email hello@aewvcompliance.co.nz.';
+            }
+          }
+        }
       } catch (err) {
         if (status) {
           status.dataset.state = 'error';
