@@ -25,15 +25,15 @@ poll:
     - "Honestly — trust and hope, until something forces the question"
 ---
 
-If a migrant on an AEWV is rostered to a worksite other than the one their visa names, you have probably created an infringement under the Worker Protection (Migrant and Other Employees) Act 2023. The fee is $1,000 for an individual and $3,000 for a body corporate per breach, and the notice can land before any wider audit does.[^1] [^2] It is the kind of breach that looks like a roster decision and reads, after the fact, like a compliance failure.
+If a migrant on an AEWV is rostered to a worksite other than the one their visa names, you have probably created an infringement under section 359A of the Immigration Act 2009 — the provision inserted by the Worker Protection (Migrant and Other Employees) Act 2023. The fee is $1,000 for an individual and $3,000 for a body corporate per breach, and the notice can land before any wider audit does.[^1] [^2] It is the kind of breach that looks like a roster decision and reads, after the fact, like a compliance failure.
 
 ## Why this matters now
 
-The Immigration Employment Infringement Scheme commenced on 1 January 2025 and has now been in force for sixteen months.[^1] It is the first standalone infringement regime for employer-side immigration breaches in New Zealand, and Immigration New Zealand has been clear that its early enforcement focus is on the conditions an employer can verify on the visa label itself — location, occupation, and hours among them.[^1] Site mismatches are the easiest of those to evidence and the easiest to miss.
+The Immigration Employment Infringement Scheme commenced on 11 April 2024 and has now been in force for over two years.[^1] It is the first standalone infringement regime for employer-side immigration breaches in New Zealand, and Immigration New Zealand has been clear that its early enforcement focus is on the conditions an employer can verify on the visa label itself — location, occupation, and hours among them.[^1] Site mismatches are the easiest of those to evidence and the easiest to miss.
 
 ## The condition the visa actually carries
 
-An AEWV is granted against a specific accredited employer, a specific occupation, and — in most cases — a specific work location. That location is a visa condition under section 49 of the Immigration Act 2009, and breaching a visa condition is the conduct captured by section 359A of the Worker Protection Act, which the infringement scheme now enforces in the lower-severity range without prosecution.[^2]
+An AEWV is granted against a specific accredited employer, a specific occupation, and — in most cases — a specific work location. That location is a visa condition under section 49 of the Immigration Act 2009, and breaching a visa condition is the conduct captured by section 359A of the same Act, which the infringement scheme now enforces in the lower-severity range without prosecution.[^2]
 
 In plain terms: a migrant worker on an AEWV who works at an address other than the one named on their visa is in breach of their visa, and the employer who allocates them to that work is in breach as well. The two parts of the breach can be infringed separately.
 
@@ -89,5 +89,5 @@ You may also want to revisit the [opening note from the team]({{< ref "/blog/wel
 
 ## Sources
 
-[^1]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
-[^2]: Worker Protection (Migrant and Other Employees) Act 2023, s 359A; Immigration Act 2009, s 49 (visa conditions). New Zealand legislation, current as at 2026-05-03. <https://www.legislation.govt.nz/act/public/2023/0029/latest/whole.html>
+[^1]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, scheme commenced 11 April 2024. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
+[^2]: Immigration Act 2009, s 359A (infringement offences, inserted by the Worker Protection (Migrant and Other Employees) Act 2023) and s 49 (visa conditions). New Zealand legislation, current as at 2026-05-17. <https://www.legislation.govt.nz/act/public/2009/0051/latest/DLM1441169.html>

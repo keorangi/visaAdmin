@@ -109,7 +109,7 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 
 ## Sources
 
-[^1]: Immigration New Zealand, *Stand-down list of non-compliant employers*, published register, current as at 2026-05-09. <https://www.immigration.govt.nz/employ-migrants/employer-accreditation-and-the-aewv/stand-down-list-of-non-compliant-employers>
+[^1]: Immigration New Zealand, *Immigration stand-down list*, published register, current as at 2026-05-17. <https://www.immigration.govt.nz/work/for-employers/rules-and-laws-when-hiring-people-from-overseas/immigration-stand-down-list/>
 [^2]: Immigration New Zealand, *Immigration employment infringement scheme*, news centre item, current as at 2026-05-09. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^3]: Parliamentary Counsel Office, *Worker Protection (Migrant and Other Employees) Act 2023*, current as at 2026-05-09. <https://www.legislation.govt.nz/act/public/2023/0049/latest/whole.html>
 [^4]: Immigration New Zealand, *Meeting your AEWV accredited employer requirements*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/>
