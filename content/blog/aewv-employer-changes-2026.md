@@ -28,7 +28,7 @@ Three material changes took effect in the first quarter of 2026 for AEWV accredi
 
 ## Why this matters now
 
-Mid-year is a useful checkpoint. Employers who absorbed the Q1 changes immediately are now several months into operating under them. Employers who have been busy may still have roles classified against the old NOL or wage rates set before March. And the infringement scheme — which has been running since April 2024 — is now entering its second full year of active enforcement, with assessors developing a clearer picture of where the systemic gaps sit.[^1]
+Mid-year is a useful checkpoint. Employers who absorbed the Q1 changes immediately are now several months into operating under them. Employers who have been busy may still have roles classified against the old NOL or wage rates set before March. And the infringement scheme — which has been running since April 2024 — is now entering its second full year of active enforcement.[^1]
 
 ## What changed in March and April 2026
 
