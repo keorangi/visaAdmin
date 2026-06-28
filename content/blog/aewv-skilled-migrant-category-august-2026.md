@@ -28,7 +28,7 @@ Further changes to New Zealand's Skilled Migrant Category take effect on 24 Augu
 
 ## Why this matters now
 
-The Skilled Migrant Category (SMC) is New Zealand's main skills-based residence pathway. AEWV holders who meet the criteria can apply through it, and employer support is a factor in the points calculation.[^2] An accredited employer who has offered a residence-pathway career as part of an AEWV employment proposition should confirm that the offer is still deliverable after 24 August. Changes to the SMC can shift the points threshold, change which occupations and qualifications count, or adjust what employer support contributes to a worker's application. Any of those shifts may affect workers who have been planning for SMC residence under the current settings.
+The Skilled Migrant Category (SMC) is New Zealand's main skills-based residence pathway. AEWV holders who meet the criteria can apply through it, and the type of employment, occupational level, and New Zealand work experience that an accredited employer provides are all factors in what criteria a worker can claim.[^2] An accredited employer who has offered a residence-pathway career as part of an AEWV employment proposition should confirm that the offer is still deliverable after 24 August. Changes to the SMC can shift the points threshold, change which occupations and qualifications count, or alter which pathways are available. Any of those shifts may affect workers who have been planning for SMC residence under the current settings.
 
 ## How the SMC connects to accredited employers
 
@@ -40,35 +40,51 @@ For employers running long-term retention propositions that include an SMC pathw
 
 ## What the August 2026 changes cover
 
-INZ announced further changes to the Skilled Migrant Category to come into effect on 24 August 2026.[^1] The specific changes are set out in that announcement. Employers should read it directly and, where workers are actively planning an SMC application, involve a licensed immigration adviser to assess the individual impact before the August date.
+INZ announced six specific changes effective 24 August 2026.[^1]
 
-This article does not reproduce the specific changes — the INZ announcement is the controlling document, and any summary risks omitting detail that matters for individual circumstances. What this article covers is the employer-side preparation that is worth doing regardless of the specific changes.
+**New occupation lists.** Three lists now shape which SMC pathways are available to applicants:
+
+- **Trades and Technician pathway list**: workers in specified ANZSCO skill level 1–3 trades and technician occupations can access a new dedicated pathway if they hold a Level 4 or above qualification, have at least four years of directly relevant post-qualification experience, and have 1.5 of those years in New Zealand earning at least the SMC median wage.
+- **Amber list**: workers in these occupations can access a new Skilled Work Experience pathway, but with additional requirements — at least five years of total relevant work experience, including two years in New Zealand earned at 1.2 times the SMC median wage.
+- **Red list**: workers in these occupations cannot access either new pathway. They can only apply for residence through the existing SMC points pathway, which requires at least 6 points from skills and New Zealand work experience.
+
+**Wage threshold simplification.** From August, workers only need to meet the SMC median wage in effect when they *start* gaining skilled work experience — not a later, higher rate if the median wage subsequently increases. A grace period applies: if a migrant begins skilled work experience within five months of their work visa being granted, the wage threshold from the day the visa was granted applies.[^1]
+
+**English language test validity.** Test results are now valid for five years for applicants who hold a recognised occupational registration.[^1]
+
+**CPA Australia recognition.** Accountants with CPA Australia membership who can undertake the work of a Qualified Statutory Accountant in New Zealand gain a new recognised occupational registration pathway.
+
+**Future AEWV extension (from 2027).** INZ will introduce the ability to extend an Accredited Employer Work Visa to complete skilled work experience requirements.[^1] This is not yet in effect — it is a future tool, and its eligibility criteria and interaction with existing visa conditions are not yet published.
 
 ## What employers who use SMC as a retention lever should check
 
-**Which workers are on an SMC trajectory.** AEWV workers who have been in New Zealand for more than 12 months, in skilled roles (ANZSCO skill level 1, 2, or 3), and who are paying attention to residence options may be building toward an SMC application. A list of these workers and a rough timeline for each is the starting point. Most employers who have not systematically tracked this will not have it.
+**Which occupation list applies to your workers.** The Red, Amber, and Trades/Technician lists are the most material change for employers. A worker in a Red list occupation has narrower options from August — the existing points pathway only, requiring 6 points. An Amber list worker has access to the new Skilled Work Experience pathway but with additional experience requirements. Workers in Trades/Technician list occupations have a new structured pathway if they meet the qualification and experience requirements. Check the specific ANZSCO codes for each worker in your SMC-eligible cohort against the lists in the INZ announcement.[^1]
 
-**Whether the employer's accreditation is current — and will stay current.** Employer support in an SMC application requires the employer to hold valid accreditation at the time of support. An accreditation renewal that lapses in July 2026 — one month before the SMC changes take effect — creates a gap that cannot be fixed retrospectively. If renewal is due in the next six months, treat it as urgent.
+**Which workers are on an SMC trajectory.** AEWV workers who have been in New Zealand for more than 12 months in ANZSCO skill level 1–3 roles may be building toward an SMC application. A list of these workers and a rough timeline for each is the starting point. Most employers who have not systematically tracked this will not have it.
 
-**What the employment record shows.** An SMC application that includes New Zealand work experience and employer support needs a clean, documented record: start date, role, ANZSCO code, pay level, and continuity. The same records that matter for a post-accreditation check are the ones that support an SMC application. Pay and hours records that are clean now will support any application; gaps found under the pressure of a deadline are harder to address.
+**The wage threshold freeze.** The simplified wage settings mean the threshold a worker must maintain when applying for residence is the SMC median wage in effect when they *started* gaining skilled work experience. For workers who began that work experience in the past five months, it may be the rate from their work visa grant date. This is relevant to employers who have given workers pay increases since they started NZ work — the original threshold still applies, not the current wage level.[^1]
 
-**Whether the wage level matters for the pathway.** The [high-paying thresholds article]({{< ref "/blog/aewv-high-paying-wage-thresholds" >}}) covers how the 1.5× and 2× median wage thresholds interact with visa duration and labour market test exemptions. Workers paid at or above the 1.5× level ($52.50/hour from March 2026) can hold a longer-duration AEWV, which in turn supports a more continuous residence-pathway record. That connection is worth checking for workers in the SMC-eligible cohort.
+**Whether the employer's accreditation is current — and will stay current.** Employer support in an SMC application requires the employer to hold valid accreditation at the time of support. An accreditation renewal that lapses before August creates a gap that cannot be fixed retrospectively. If renewal is due in the next six months, treat it as urgent.
 
-**Whether workers approaching the threshold should apply before or after August.** This is a fact-specific judgment that requires advice. For some workers, applying before 24 August may preserve a points calculation that is more favourable under the current settings. For others, the August changes may open the pathway further. That determination can only be made by a licensed immigration adviser who knows the individual's circumstances and has read the specific changes.
+**What the employment record shows.** An SMC application that includes New Zealand work experience needs a clean, documented record: start date, role, ANZSCO code, pay level, and continuity. The same records that matter for a post-accreditation check are the ones that support an SMC application. The [high-paying thresholds article]({{< ref "/blog/aewv-high-paying-wage-thresholds" >}}) covers how wage levels interact with visa duration and the residence-pathway record.
+
+**Whether workers approaching the threshold should apply before or after August.** For some workers, applying before 24 August may preserve a more favourable points calculation. For others, the August changes — particularly the Trades/Technician pathway or the simplified wage threshold rule — may make the pathway more accessible. That determination requires a licensed immigration adviser who knows the individual's circumstances.
 
 ## What to do
 
-1. Read the INZ announcement for the August 2026 SMC changes directly.[^1] Identify whether any of the specific changes affect the eligibility or points claim of workers in your AEWV workforce.
-2. List all current AEWV workers in skill level 1, 2, or 3 roles who have been employed in New Zealand for 12 months or more. This is your SMC-eligible cohort to check.
-3. Confirm your accreditation renewal status. If renewal is due before October 2026, treat it as time-sensitive — accreditation continuity is part of what employer support in an SMC application requires.
-4. For workers actively planning an SMC application, recommend they engage a licensed immigration adviser before August to assess whether applying before or after 24 August is more advantageous for their specific circumstances.
-5. Review employment records for workers in the qualifying cohort — payslips, timesheets, employment agreement chains. Make sure these are complete and consistent now, not under deadline pressure.
+1. Read the INZ announcement for the August 2026 SMC changes directly.[^1] Check which occupation list — Red, Amber, or Trades/Technician — applies to each AEWV worker in your SMC-eligible cohort. The lists set out which pathways are available from August.
+2. List all current AEWV workers in ANZSCO skill level 1–3 roles who have been in New Zealand for 12 months or more. For each, note their occupation code, start date, current pay rate, and whether they have formally started building skilled work experience toward a residence application.
+3. For workers who began skilled work experience in the past five months, note the wage threshold in effect on their work visa grant date — that is the threshold they need to maintain when applying, under the transitional provision.
+4. Confirm your accreditation renewal status. If renewal is due before October 2026, treat it as time-sensitive — accreditation continuity is part of what employer support in an SMC application requires.
+5. For workers actively planning an application, recommend they engage a licensed immigration adviser before August to assess the impact of the new pathway structures on their specific circumstances and whether applying before or after 24 August is more advantageous.
+6. Review employment records for workers in the qualifying cohort — payslips, timesheets, employment agreement chains. These records underpin both post-accreditation checks and SMC applications; gaps found under deadline pressure are harder to address.
+7. Note the future AEWV extension tool (from 2027) for workers who need additional NZ work experience to qualify for residence. Follow INZ announcements for when it becomes available and what the eligibility criteria are.
 
 ## What we don't know
 
-The INZ announcement sets out the specific changes; this article does not reproduce the full detail. Employers and workers affected by the August changes should read the announcement directly and obtain advice from a licensed immigration adviser. The impact of the changes will vary by the individual worker's points profile, current employment circumstances, and planned application timeline.
+The specific ANZSCO codes on each list — Red, Amber, and Trades/Technician — are set out in the INZ announcement but not reproduced here; employers should check the announcement directly for their workers' occupation codes.[^1] The implementation detail of the future AEWV extension (available from 2027) has not yet been published, including eligibility criteria, extension length, and how it will interact with existing visa conditions.
 
-INZ has not indicated at the time of this article's publication whether transitional provisions will apply for workers who have already submitted SMC expressions of interest under the pre-August settings. That question should be directed to INZ or to a licensed immigration adviser who has read the specific change provisions.
+It is also not yet clear how INZ will assess the transitional wage provision in practice — specifically, what evidence workers and employers will need to produce to establish the wage threshold that applied at the start of skilled work experience. Employers and workers should seek specific advice before relying on the grace period.
 
 ## Have your say
 

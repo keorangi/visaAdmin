@@ -1,6 +1,6 @@
 ---
 title: "AEWV high-paying thresholds — how the 1.5x and 2x median wage points change the rules"
-description: "At 1.5 times the AEWV median wage, a worker can stay up to five years. At twice the median, the role may skip the labour market test. Here is how each works."
+description: "At 1.5 times the AEWV median wage, lower-skilled roles become eligible for a five-year maximum stay. At twice the median, the role may skip the labour market test."
 date: 2026-06-28
 lastmod: 2026-06-28
 slug: "aewv-high-paying-wage-thresholds"
@@ -24,7 +24,7 @@ poll:
     - "We weren't aware these thresholds existed"
 ---
 
-The AEWV wage threshold most employers track is the $35 median wage floor — the minimum required to run a standard Job Check. Two further thresholds sit above it, each carrying distinct consequences for employers and workers. Paying at 1.5 times the current median wage ($52.50 per hour, as at March 2026) makes a worker eligible for a maximum AEWV duration of five continuous years in New Zealand.[^1] Paying twice the median ($70.00 per hour) may exempt the role from the labour market test entirely.[^1] Neither threshold is routinely factored into Job Check strategy.
+The AEWV wage threshold most employers track is the $35 median wage floor — the minimum required to run a standard Job Check. Two further thresholds sit above it, each carrying distinct consequences for employers and workers. Paying at 1.5 times the current median wage ($52.50 per hour, as at March 2026) enables the maximum five-year continuous stay for workers in some lower-skilled roles.[^3] Paying twice the median ($70.00 per hour) may exempt the role from advertising requirements and minimum skills checks.[^3] Neither threshold is routinely factored into Job Check strategy.
 
 ## Why this matters now
 
@@ -32,19 +32,19 @@ The median wage threshold increased to $35 per hour on 9 March 2026, which moved
 
 ## How the 1.5× threshold works
 
-At 1.5 times the current AEWV median wage — $52.50 per hour as at March 2026 — a worker becomes eligible for a maximum AEWV duration of five years of continuous stay in New Zealand.[^1]
+At 1.5 times the current AEWV median wage — $52.50 per hour as at March 2026 — workers in lower-skilled roles become eligible for a maximum AEWV duration of five years of continuous stay in New Zealand.[^3] INZ describes this as "maximum 5 year stay rules for some lower skilled roles" — the wage threshold is the gate for that extended duration, and it applies to ANZSCO skill level 4 roles that would otherwise have a shorter maximum stay.
 
-Standard AEWV durations are shorter and depend on the role and occupation type. The five-year continuous maximum sits above the default. It matters in two ways: it gives the employer a longer uninterrupted period to retain a worker without a visa-expiry gap; and it gives the worker a longer window of continuous employment, which is relevant to residence pathways that require sustained, qualifying employment over a fixed period.
+The five-year continuous maximum matters in two ways: it gives the employer a longer uninterrupted period to retain a worker without a visa-expiry gap; and it gives the worker a longer window of continuous employment, which is relevant to residence pathways that require sustained, qualifying employment over a fixed period.
 
 The 1.5× threshold is a multiple of the median wage, not a fixed dollar figure. When the median wage next increases, the threshold moves with it. Verify the current figure at the INZ wage rates page before any application — not against this article.[^1]
 
 ## How the 2× threshold works
 
-At twice the current median wage — $70.00 per hour as at March 2026 — a role may be exempt from the AEWV labour market test.[^1] [^2]
+At twice the current median wage — $70.00 per hour as at March 2026 — a role may be exempt from advertising requirements and minimum skills checks.[^3] INZ describes the threshold as enabling "exemptions from advertising and minimum skills" for highly paid roles.
 
-The labour market test is the standard requirement to advertise a role to New Zealand citizens and residents for a minimum of 14 days before a Job Check can proceed. For most roles, the advertising process runs for several weeks, carries its own evidence burden, and creates a risk of decline if INZ assesses the evidence as insufficient.[^4] The [Job Check declines article]({{< ref "/blog/aewv-job-check-declined-reasons" >}}) covers the pattern in detail. A role that qualifies for exemption at the 2× wage level skips that process.
+The standard Job Check requires advertising a role to New Zealand citizens and residents for a minimum of 14 days and demonstrating that the applicant meets minimum skills requirements for the occupation. For most roles, this process runs for several weeks, carries its own evidence burden, and creates a risk of decline if INZ assesses the evidence as insufficient.[^4] The [Job Check declines article]({{< ref "/blog/aewv-job-check-declined-reasons" >}}) covers that pattern in detail. A role that qualifies for exemption at the 2× wage level skips both requirements.
 
-The exemption is not automatic from the wage level alone. The Job Check application must be structured to claim it, and INZ assesses the claim. Confirm the specific conditions against the INZ Job Check guidance at the time of application.[^2]
+The exemption is not automatic from the wage level alone. The Job Check application must be structured to claim it, and INZ assesses the claim. Confirm the specific conditions against the INZ Job Check guidance at the time of application.[^4]
 
 ## When structuring to a threshold is worth running the numbers
 
@@ -85,6 +85,5 @@ We are trying to understand how widely accredited employers actively plan around
 ## Sources
 
 [^1]: Immigration New Zealand, *Wage rates for work visas*, Immigration New Zealand employer guidance, accessed June 2026. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
-[^2]: Immigration New Zealand, *Changes to the Accredited Employer Work Visa (AEWV) and median wage*, Immigration New Zealand news centre, accessed June 2026. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv-and-median-wage/>
 [^3]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, Immigration New Zealand news centre, effective 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
 [^4]: Immigration New Zealand, *Job Check process for AEWV employers*, Immigration New Zealand employer guidance, accessed June 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/>
