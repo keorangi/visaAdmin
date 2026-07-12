@@ -24,7 +24,7 @@ poll:
     - "None — our settings knowledge is current"
 ---
 
-The settings that govern aged care AEWV compliance have changed three times in 15 months. The care workforce sector agreement ended on 10 March 2025, putting new hires on the full median wage.[^1] The National Occupation List added care occupations in November 2025 and March 2026.[^2] English language requirements reached skill level 3 roles on 1 June 2026.[^3] Each change lands differently in aged care than in other sectors — because two wage rates now do two different jobs, and because in this sector an employer's record-keeping failure can cost a worker their residence pathway.
+The settings that govern aged care AEWV compliance have changed three times in 15 months. The care workforce sector agreement ended on 10 March 2025, putting new hires on the full median wage.[^1] The National Occupation List added care occupations in November 2025 and March 2026.[^2] English language requirements reached skill level 3 roles on 1 June 2026.[^3][^8] Each change lands differently in aged care than in other sectors — because two wage rates now do two different jobs, and because in this sector an employer's record-keeping failure can cost a worker their residence pathway.
 
 ## Why this matters now
 
@@ -60,7 +60,7 @@ Five years is not just a longer runway — it is what makes the 24-month residen
 
 ## The records that carry residence
 
-The Care Workforce Work to Residence pathway requires 24 months of qualifying work in the 30 months before the worker applies, evidenced almost entirely from the employer's records — payslips, timesheets, employment agreements, and continuity of accredited employment.[^6] The [care sector residence pathway article]({{< ref "/blog/aewv-care-sector-residence-pathway" >}}) covers the record set in full. The point that belongs in this article is the interaction: every setting above feeds that record. A wage that slips below $28.25, a role reclassified without checking pathway eligibility, an accreditation lapse — each punches a hole in a 24-month record that cannot be rebuilt afterwards.
+The Care Workforce Work to Residence pathway requires 24 months of qualifying work in the 30 months before the worker applies, paid at or above the qualifying rate and with an accredited employer.[^6] The evidence for that period lives almost entirely in the employer's records — payslips, timesheets, employment agreements, and continuity of accredited employment. The [care sector residence pathway article]({{< ref "/blog/aewv-care-sector-residence-pathway" >}}) covers the record set in full. The point that belongs in this article is the interaction: every setting above feeds that record. A wage that slips below $28.25, a role reclassified without checking pathway eligibility, an accreditation lapse — each punches a hole in a 24-month record that cannot be rebuilt afterwards.
 
 *AEWV Compliance is scoping a tool in this area — connecting pay records, classification, and stay clocks for care sector employers is one of the problems we are testing demand for.*
 
@@ -69,12 +69,12 @@ The Care Workforce Work to Residence pathway requires 24 months of qualifying wo
 1. Check every AEWV hire made since 10 March 2025 against the median wage floor that applied at their application date — $35.00 per hour for applications from 9 March 2026; INZ's wage rates page holds the earlier rates.[^4][^7] Confirm the employment agreement rate and the payroll actuals both clear it.
 2. For each worker on the Care Workforce Work to Residence pathway, set a payroll alert at $28.25 per hour. Any pay period below that rate does not count toward their 24 qualifying months.[^1]
 3. Map each care role to its current classification — Work to Residence-eligible occupation, NOL occupation (with skill level), or ANZSCO code — and record the mapping. Do it before the next Job Check, not during it.
-4. For recruitment into NOL skill level 3 care roles, build English language evidence into the candidate checklist now. Applications from 1 June 2026 need it.[^3]
+4. For recruitment into NOL skill level 3 care roles, build English language evidence into the candidate checklist now. Applications from 1 June 2026 need it.[^3][^8]
 5. Diarise each care worker's maximum continuous stay date alongside their visa expiry date. They are different dates with different consequences.
 
 ## What we don't know
 
-Whether the $28.25 care workforce rate will be adjusted, and on what cycle, is not stated in INZ's current guidance — it has been unchanged while the median wage has moved twice, and the gap between the two figures is now materially wider than when the sector agreement was signed. We also cannot say whether further care occupations will be added to the NOL, or whether existing ones will be re-levelled; both tranches so far arrived with little advance notice.
+Whether the $28.25 care workforce rate will be adjusted, and on what cycle, is not stated in INZ's current guidance — it has been unchanged since 1 July 2022, a period in which the immigration median wage has risen four times, from $27.76 to $35.00.[^7] A rate that began above the then-median wage now sits $6.75 below it. We also cannot say whether further care occupations will be added to the NOL, or whether existing ones will be re-levelled; both tranches so far arrived with little advance notice.
 
 ## Have your say
 
@@ -94,4 +94,5 @@ If you run accreditation compliance for an aged care or disability support provi
 [^4]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, immigration.govt.nz news centre, effective 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
 [^5]: Immigration New Zealand, *How long you can stay on an AEWV*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/how-long-you-can-stay-on-an-aewv/>
 [^6]: Immigration New Zealand, *Care workforce and transport sector pathway to residence*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/live/resident-visas-to-live-in-new-zealand/skilled-residence-pathways-in-new-zealand/care-workforce-and-transport-sector-pathway-to-residence/>
-[^7]: Immigration New Zealand, *Wage rates for work visas*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
+[^7]: Immigration New Zealand, *Wage rates for work visas*, immigration.govt.nz, accessed July 2026 (Table 1 holds the care workforce rate history; Table 5 the previous median wage rates). <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
+[^8]: Immigration New Zealand, *English language requirements extended to AEWV skill level 3 roles*, immigration.govt.nz news centre, June 2026. <https://www.immigration.govt.nz/about-us/news-centre/english-language-requirements-extended-to-aewv-skill-level-3-roles/>

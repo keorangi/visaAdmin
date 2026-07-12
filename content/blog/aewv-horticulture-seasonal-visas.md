@@ -28,7 +28,7 @@ A horticulture employer hiring migrant workers in 2026 is choosing between five 
 
 ## Why this matters now
 
-Winter is the horticulture sector's planning window. Most of the seasonal occupations INZ recognises for the seasonal AEWVs have seasons starting in October or November.[^3] An employer who wants workers in the ground by spring needs the channel question settled now — including whether their existing accreditation type covers the visa they intend to use, and whether a Job Check with advertising or Work and Income engagement sits in the critical path.
+Winter is the horticulture sector's planning window. Almost half of the seasonal occupations INZ recognises for the seasonal AEWVs have seasons starting in October or November.[^3] An employer who wants workers in the ground by spring needs the channel question settled now — including whether their existing accreditation type covers the visa they intend to use, and whether a Job Check with advertising or Work and Income engagement sits in the critical path.
 
 ## Five seasonal visa channels, three accreditation regimes
 
@@ -60,7 +60,7 @@ The two seasonal AEWV variants are built for different workforces.[^1]
 
 **PSV — the short peak.** Up to seven months, for workers with at least one season in the past three years. After reaching the maximum stay, the worker must spend four months in a row outside New Zealand before another PSV can be granted.[^4] The Job Check requires advertising and engagement with Work and Income — or a Peak Seasonal Visa endorsement.[^1] The [MSD engagement article]({{< ref "/blog/aewv-msd-engagement-labour-market-test" >}}) covers what that engagement record needs to show.
 
-Neither visa carries an English language requirement — unlike the regular AEWV, where skill level 3 to 5 roles need English evidence from 1 June 2026.[^1]
+Neither visa carries an English language requirement[^1] — unlike the regular AEWV, where skill level 3 to 5 roles must show they can speak and understand English.[^5]
 
 Two constraints apply to both. First, INZ publishes recognised season months for each eligible occupation — a wine maker's season runs January to June, a forestry worker's April to September — and while shoulder-month variations are acknowledged, you cannot employ workers outside the conditions of their visa: nine months a year for GWSV holders, seven for PSV.[^3] Second, seasonal AEWV workers can only work in the regions or locations listed on their visa; moving them to a different site needs a Job Change.[^1] The [different-site infringement article]({{< ref "/blog/different-site-infringement-aewv" >}}) covers what happens when that rule is missed.
 
