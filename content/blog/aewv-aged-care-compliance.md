@@ -2,7 +2,7 @@
 title: "Aged care AEWV compliance — two wage rates, new occupations, and the records that carry residence"
 description: "Aged care AEWV compliance changed three times in 15 months. What accredited employers must hold on wage rates, NOL care occupations, and English rules."
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: 2026-08-02
 slug: "aewv-aged-care-compliance"
 author: "AEWV Compliance editorial"
 keywords:
@@ -18,27 +18,27 @@ tags:
 poll:
   question: "Which aged care AEWV setting has been hardest to keep current with?"
   options:
-    - "The wage rates — the $35 floor vs the $28.25 residence rate"
+    - "The wage rules — market rate at hiring vs the $28.25 residence rate"
     - "Occupation classification under the NOL"
     - "The new English language requirement"
     - "None — our settings knowledge is current"
 ---
 
-The settings that govern aged care AEWV compliance have changed three times in 15 months. The care workforce sector agreement ended on 10 March 2025, putting new hires on the full median wage.[^1] The National Occupation List added care occupations in November 2025 and March 2026.[^2] English language requirements reached skill level 3 roles on 1 June 2026.[^3][^8] Each change lands differently in aged care than in other sectors — because two wage rates now do two different jobs, and because in this sector an employer's record-keeping failure can cost a worker their residence pathway.
+The settings that govern aged care AEWV compliance have changed three times in 15 months. On 10 March 2025 the care workforce sector agreement ended — and so did the AEWV median wage requirement it exempted employers from, leaving market rate as the hiring test.[^1] [^9] The National Occupation List added care occupations in November 2025 and March 2026.[^2] English language requirements reached skill level 3 roles on 1 June 2026.[^3][^8] Each change lands differently in aged care than in other sectors — because two wage figures now do two different jobs, and because in this sector an employer's record-keeping failure can cost a worker their residence pathway.
 
 ## Why this matters now
 
 Care providers who hired AEWV workers after the sector agreement ended in March 2025 are heading toward their first renewals under the new settings. The English requirement for skill level 3 is six weeks old. And the new NOL care occupations — Aged Care Coordinator, Dementia Navigator, Support Worker (Mental Health and Addiction) among them — give providers classification options that did not exist a year ago, each carrying different consequences for visa length and English evidence.[^2]
 
-## Two wage rates doing two different jobs
+## Two wage figures doing two different jobs
 
-Aged care employers now work with two wage figures that are easy to confuse and expensive to swap.
+Aged care employers work with two figures that are easy to confuse and expensive to swap. Neither is a median wage floor.
 
-**The hiring floor: the median wage.** Before 10 March 2025, the care workforce sector agreement allowed some AEWV hires below the median wage. That ended. From 10 March 2025, anyone hired on an AEWV must be paid at least the median wage for the job — currently $35.00 per hour, effective 9 March 2026.[^1][^4] A care provider still budgeting new AEWV hires against the old sector-agreement rates is below the floor.
+**The hiring test: market rate.** Before 10 March 2025, the care workforce sector agreement allowed some AEWV hires below the median wage. Both went on the same day. The sector agreement ended, and the general median wage requirement was removed from the AEWV entirely — INZ confirmed as much again in February 2026.[^1] [^4] What remains is the market rate — "a range of pay that a New Zealander or resident would be paid within to do the job" — plus the legal minimum wage.[^9] For care providers this cuts both ways: there is no fixed immigration floor to clear, but there is also no published number to point at. The market-rate reasoning has to be assembled per role and evidenced at Job Check.
 
-**The residence and stay rate: $28.25.** The lower figure has not disappeared — it has changed jobs. Workers in care roles eligible for the Care Workforce Work to Residence Visa must be paid at least $28.25 per hour during the work experience that counts toward residence.[^1] The same figure appears in INZ's maximum-stay rules: a care workforce job eligible for the residence pathway, paid at or above $28.25, qualifies for the five-year maximum continuous stay rather than the three-year maximum that otherwise applies to lower-skilled roles.[^5]
+**The residence and stay rate: $28.25.** This figure has not moved and does real work. Workers in care roles eligible for the Care Workforce Work to Residence Visa must be paid at least $28.25 per hour during the work experience that counts toward residence.[^1] The same figure appears in INZ's maximum-stay rules: a care workforce job eligible for the residence pathway, paid at or above $28.25, qualifies for the five-year maximum continuous stay rather than the three-year maximum that otherwise applies to lower-skilled roles.[^5]
 
-The practical trap is treating $28.25 as a hiring rate. It is not — a new hire below $35.00 fails the Job Check wage floor. The $28.25 figure matters for workers already in the system: it is the threshold their pay must never fall below if their residence eligibility and five-year stay are to survive. An employer tracking only the hiring floor can hold both numbers correctly and still miss a pay period where an existing worker's rate slipped between them.
+The practical trap is treating $28.25 as though clearing it settles everything. It does not. It is a residence and stay threshold, not a hiring test — a rate at $28.25 still has to be defensible as the market rate for the role. And it is a floor a worker's pay must never fall below if their residence eligibility and five-year stay are to survive. An employer can hold both ideas correctly and still miss a pay period where an existing worker's rate slipped underneath.
 
 ## Where care roles now sit on the classification map
 
@@ -66,7 +66,7 @@ The Care Workforce Work to Residence pathway requires 24 months of qualifying wo
 
 ## What to do
 
-1. Check every AEWV hire made since 10 March 2025 against the median wage floor that applied at their application date — $35.00 per hour for applications from 9 March 2026; INZ's wage rates page holds the earlier rates.[^4][^7] Confirm the employment agreement rate and the payroll actuals both clear it.
+1. For every AEWV hire made since 10 March 2025, check that the Job Check file holds market-rate reasoning for the role — not a note that the rate cleared the median wage. The median wage requirement was removed on that date, and a rate justified only by reference to it is not evidence of market rate.[^1] [^9]
 2. For each worker on the Care Workforce Work to Residence pathway, set a payroll alert at $28.25 per hour. Any pay period below that rate does not count toward their 24 qualifying months.[^1]
 3. Map each care role to its current classification — Work to Residence-eligible occupation, NOL occupation (with skill level), or ANZSCO code — and record the mapping. Do it before the next Job Check, not during it.
 4. For recruitment into NOL skill level 3 care roles, build English language evidence into the candidate checklist now. Applications from 1 June 2026 need it.[^3][^8]
@@ -74,7 +74,7 @@ The Care Workforce Work to Residence pathway requires 24 months of qualifying wo
 
 ## What we don't know
 
-Whether the $28.25 care workforce rate will be adjusted, and on what cycle, is not stated in INZ's current guidance — it has been unchanged since 1 July 2022, a period in which the immigration median wage has risen four times, from $27.76 to $35.00.[^7] A rate that began above the then-median wage now sits $6.75 below it. We also cannot say whether further care occupations will be added to the NOL, or whether existing ones will be re-levelled; both tranches so far arrived with little advance notice.
+Whether the $28.25 care workforce rate will be adjusted, and on what cycle, is not stated in INZ's current guidance — it has been unchanged since 1 July 2022, a period in which the immigration median wage has risen to $35.00.[^7] A rate that began above the then-median wage now sits well below it, which matters because the residence thresholds it sits alongside are still indexed to the median. We also cannot say whether further care occupations will be added to the NOL, or whether existing ones will be re-levelled; both tranches so far arrived with little advance notice.
 
 ## Have your say
 
@@ -96,3 +96,4 @@ If you run accreditation compliance for an aged care or disability support provi
 [^6]: Immigration New Zealand, *Care workforce and transport sector pathway to residence*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/live/resident-visas-to-live-in-new-zealand/skilled-residence-pathways-in-new-zealand/care-workforce-and-transport-sector-pathway-to-residence/>
 [^7]: Immigration New Zealand, *Wage rates for work visas*, immigration.govt.nz, accessed July 2026 (Table 1 holds the care workforce rate history; Table 5 the previous median wage rates). <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
 [^8]: Immigration New Zealand, *English language requirements extended to AEWV skill level 3 roles*, immigration.govt.nz news centre, June 2026. <https://www.immigration.govt.nz/about-us/news-centre/english-language-requirements-extended-to-aewv-skill-level-3-roles/>
+[^9]: Immigration New Zealand, *Wage rate requirements for visas*, accessed 2 August 2026 — AEWV jobs must pay at least the market rate for the job. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>

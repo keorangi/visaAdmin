@@ -1,7 +1,7 @@
 ---
 title: "Restructure or sale of an accredited business — what happens to the migrant workforce"
 date: 2026-05-03
-lastmod: 2026-05-03
+lastmod: 2026-08-02
 slug: "accredited-business-restructure-sale-migrant-workers"
 author: "AEWV Compliance editorial"
 description: "Accreditation does not transfer with a sale or restructure. The acquirer needs its own. The migrants need either a transfer or a job-change variation. This often surfaces late in deals."
@@ -98,8 +98,8 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 
 ## Sources
 
-[^1]: Immigration New Zealand, *Transferring migrant workers due to a business sale or restructure*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/transferring-migrant-workers-due-to-a-business-sale-or-restructure>
-[^2]: Immigration New Zealand, *If things change for AEWV accredited employers*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/if-things-change-for-aewv-accredited-employers>
+[^1]: Immigration New Zealand, *Transferring migrant workers due to a business sale or restructure*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/recruiting-and-supporting-a-migrant-to-apply-for-an-aewv-process-steps/reusing-or-resending-aewv-job-tokens-and-transferring-aewv-workers/>
+[^2]: Immigration New Zealand, *If things change for AEWV accredited employers*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/if-things-change-for-aewv-accredited-employers/>
 [^3]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^4]: Immigration New Zealand, *Update to simplified Accredited Employer Work Visa (AEWV) job change process*, news centre item, 2025. <https://www.immigration.govt.nz/about-us/news-centre/update-to-simplified-accredited-employer-work-visa-aewv-job-change-process/>
 [^5]: Pitt & Moore, *Redundancy basics and considerations for migrant workers*, firm publication. Used here for the practitioner framing of the redundancy question; the controlling rules are in the Immigration Act 2009 and the Employment Relations Act 2000. <https://www.pittandmoore.co.nz/publications/redundancy-basics-and-considerations-for-migrant-workers/>

@@ -1,7 +1,7 @@
 ---
 title: "AEWV record keeping — the audit-ready standard, drawn from INZ's own checklist"
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-08-02
 slug: "aewv-record-keeping-audit-ready"
 author: "AEWV Compliance editorial"
 description: "AEWV record keeping isn't a question of which documents you hold. It's whether each record was created at the point of decision — and would still read that way to an outsider."
@@ -115,6 +115,6 @@ For the wider context, the [opening note from the team]({{< ref "/blog/welcome" 
 
 [^1]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, current as at 2026-05-17. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^2]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, scheme commenced 11 April 2024. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
-[^3]: Employment New Zealand, *Keeping accurate records*, employer guidance, current as at 2026-05-17. <https://www.employment.govt.nz/starting-employment/keeping-accurate-records>
+[^3]: Employment New Zealand, *Keeping accurate records*, employer guidance, current as at 2026-05-17. <https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/record-keeping>
 [^4]: Immigration New Zealand, *Meeting your AEWV accredited employer requirements*, employer guidance, current as at 2026-05-17. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/>
-[^5]: Immigration New Zealand, *Settlement information for migrant workers*, employer guidance, current as at 2026-05-17. <https://www.immigration.govt.nz/employ-migrants/keeping-your-migrant-employees/help-your-staff-settle-in-new-zealand>
+[^5]: Immigration New Zealand, *Settlement information for migrant workers*, employer guidance, current as at 2026-05-17. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/recruiting-and-supporting-a-migrant-to-apply-for-an-aewv-process-steps/accredited-employer-requirements-to-help-settle-aewv-workers-in-new-zealand/>

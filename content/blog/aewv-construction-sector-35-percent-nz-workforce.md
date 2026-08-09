@@ -1,79 +1,97 @@
 ---
-title: "AEWV construction sector accreditation — the 35 percent NZ workforce requirement"
-description: "Construction-sector employers with controlling-third-party accreditation face a 35% NZ workforce threshold — more than double the standard rate. Here's what it requires and when it applies."
+title: "The construction 35% NZ workforce rule is gone — what applies now"
+description: "The 35% construction workforce threshold for triangular AEWV employers was cut to 15% on 27 January 2025. It is now a continuing obligation, not a Job Check test."
 date: 2026-06-21
-lastmod: 2026-06-21
+lastmod: 2026-08-02
 slug: "aewv-construction-sector-35-percent-nz-workforce"
 author: "AEWV Compliance editorial"
 keywords:
   - AEWV construction sector workforce requirement
-  - controlling third party construction 35 percent NZ workers
+  - construction 35 percent NZ workers removed
   - AEWV NZ workforce threshold construction
+  - triangular accreditation 15 percent
 tags:
   - aewv
   - construction
   - controlling-third-party
   - workforce-ratio
 poll:
-  question: "Does the 35% NZ workforce threshold for construction apply to your organisation?"
+  question: "How are you tracking the 15% NZ workforce condition across your accreditation period?"
   options:
-    - "Yes — we are tracking it actively"
-    - "Yes — but meeting it is a practical challenge"
-    - "We are on the transitional 15% rate and monitoring the position"
-    - "Not sure — we need to check our accreditation type"
+    - "Continuously — it is a standing report from payroll"
+    - "At Job Check time, when we need it"
+    - "Only when INZ asks"
+    - "We were still planning against the old 35% construction figure"
 ---
 
-Accredited employers placing AEWV workers in construction roles under controlling-third-party arrangements must have at least 35 percent of their placed workforce in specified construction occupations be New Zealand citizens or residents.[^1] That is more than double the 15 percent standard that applies to other accredited employers. The threshold applies at the point of the next Job Check — and for employers accredited before 27 November 2023, the transitional arrangement that kept them at 15 percent ends when that next Job Check is submitted. If you hold controlling-third-party accreditation and place workers in construction, this is the ratio that governs whether your Job Checks proceed.
+If you place AEWV workers in construction roles under a triangular arrangement, the 35% New Zealand workforce threshold you may have planned around no longer exists. It was reduced to 15% on 27 January 2025, aligning construction with every other sector.[^1] The threshold is also framed differently now: INZ says employers "will need to meet and maintain this 15% threshold throughout the period of their accreditation."[^1] That is a continuing obligation, not a test you clear at Job Check and forget.
+
+{{< callout type="info" >}}
+**Correction, 2 August 2026.** An earlier version of this note described a live 35% construction-sector threshold, a transitional 15% rate for employers accredited before 27 November 2023, and a Job Check trigger. All three were superseded on 27 January 2025 and should not have been published in June 2026. Both sources the earlier version cited have since been withdrawn by INZ — one now redirects to a generic parent page, the other returns a 404. The article has been rewritten against the current Operational Manual and INZ's announcement of the change.
+{{< /callout >}}
 
 ## Why this matters now
 
-Controlling-third-party accreditation is now the only route for labour hire businesses and franchisors placing AEWV workers with host employers — franchisee accreditation closed in June 2024.[^2] As more businesses have consolidated under controlling-third-party status, the sector-specific requirements that sit on top of the base obligations have become more consequential. The construction threshold is the most significant of these.
+The change was announced on 23 January 2025 and took effect four days later.[^1] It was bundled into the same announcement that removed the Employment New Zealand online module requirement, which is probably why it travelled quietly — the modules change affected every accredited employer, while this one affected a narrow group.
 
-For employers who were accredited before 27 November 2023, the transitional arrangement means the trigger is not a renewal date — it is the next Job Check. An employer approaching a new hiring cycle should confirm their position before submitting.
+The reasoning INZ gave was explicit: the reduction aligns construction "with the requirements for triangular firms in other sectors", supporting the sector "to deliver critical infrastructure projects for New Zealand while still maintaining the intent that labour hire firms should not solely rely on migrant labour."[^1]
 
-## Who the construction sector rule applies to
+For a construction labour-hire business, the practical effect is that a placement pool which was non-compliant at 20% New Zealand workers is now comfortably compliant. If you have been constraining hiring against a 35% target, you have been working to a number that was withdrawn 18 months ago.
 
-The 35 percent requirement applies to controlling-third-party accredited employers placing migrants in specified construction occupations.[^1] It does not apply to standard or high-volume employers employing workers directly under those types of accreditation.
+## What the requirement is now
 
-The distinction matters for businesses with mixed delivery models — direct employment in some roles and labour placement in others. The threshold that governs any given Job Check depends on the accreditation type under which the application is made, not on the sector the business operates in as a whole.
+One threshold, applying to all triangular employer accreditation holders regardless of sector. The Operational Manual states it:[^2]
 
-The [accreditation types article]({{< ref "/blog/aewv-accreditation-types-which-to-choose" >}}) sets out the differences between standard, high-volume, and controlling-third-party accreditation if you need to confirm which type applies to your hiring structure.
+> A minimum of 15% of the employer's employees who are placed in triangular employment arrangements must be New Zealand citizens or residents who are guaranteed at least 30 paid hours per week, unless the employer is placing no more than one employee in a triangular employment arrangement.
 
-## The 35 percent threshold — what it requires
+Three things to read carefully in that sentence.
 
-At least 35 percent of the workers placed in specified construction occupations must be New Zealand citizens or residents.[^1] The 30-hours-per-week condition that applies to the standard 15 percent base requirement carries through — NZ citizen and resident workers counted towards the 35 percent threshold must be working at least 30 hours per week.[^2]
+**The base is workers placed, not your whole workforce.** The denominator is employees placed in triangular arrangements. Directly employed staff outside those arrangements sit outside the calculation.
 
-The threshold applies to the construction-occupation placement pool, not to the employer's total workforce or to all AEWV workers placed across all occupations. An employer who places workers in both construction and non-construction roles needs to apply the 35 percent calculation only to the construction-occupation subset.
+**The 30 paid hours is part of the test, not a separate one.** A New Zealand citizen or resident placed at 20 hours a week does not count toward the 15%.
 
-INZ's guidance names the specific construction occupations that are in scope for the higher threshold.[^1] Before calculating compliance, confirm which occupations in your current placement pool fall on that list.
+**There is a single-placement exemption.** An employer placing no more than one employee in a triangular arrangement is not subject to the threshold at all.[^2]
 
-The [triangular NZ workforce ratio article]({{< ref "/blog/aewv-triangular-nz-workforce-ratio" >}}) covers the calculation method for the standard 15 percent / 30-hour requirement. The construction-sector rate applies the same counting logic to the higher threshold.
+The current Manual chapter carries no construction variant. Neither does INZ's post-accreditation check guide, which lists the evidence category as "proof that at least 15% of your staff are New Zealanders guaranteed at least 30 hours of work each week" with no sector qualification.[^3]
 
-## The transitional rule — and when it ends
+## Where the requirement is written down — and where it is not
 
-Employers who were accredited under controlling-third-party status before 27 November 2023 operated under a transitional arrangement: the standard 15 percent NZ workforce threshold continued to apply until their first Job Check application after that date.[^1] At that point, the 35 percent threshold takes effect.
+Worth knowing, because it is why this rule is easy to get wrong.
 
-The trigger is the Job Check, not the accreditation renewal. An employer who has not submitted a Job Check since their pre-November 2023 accreditation may still be within the transitional window — but the moment they submit a new Job Check, they are subject to the higher rate.
+INZ's public page on requirements for controlling third parties and franchisees sets out the monitoring obligations, the record-keeping obligations, the site-visit cadence and the declarations you must obtain.[^4] It does not state the 15% workforce condition at all.
 
-If you are unsure whether you have already passed through the transitional trigger, check the date of your most recent Job Check application against 27 November 2023. If it was after that date, the 35 percent threshold has applied to your construction placements since then.
+The condition lives in the Operational Manual at WA2.20[^2] and appears in the post-accreditation check evidence list.[^3] An employer who reads only the public requirements page will not find the number they are being assessed against. That was true when the threshold was 35% and it remains true at 15%.
+
+## "Meet and maintain" changes what you have to evidence
+
+The earlier framing of this rule treated it as something tested when a Job Check was submitted. INZ's wording does not support that reading: the obligation is to "meet and maintain this 15% threshold throughout the period of their accreditation."[^1]
+
+That matters at renewal. An immigration officer assessing a subsequent accreditation application must assess whether the employer has complied with the triangular placement requirements "since their previous accreditation was granted."[^5] A ratio that was met on application day and drifted below 15% eight months later is a compliance gap across that period, not a clean pass.
+
+The practical consequence: a point-in-time calculation is not sufficient evidence. You need to be able to show the ratio held.
+
+*AEWV Compliance is scoping a tool in this area — producing the 15% calculation from payroll data across a period, rather than at a single date, is one of the problems we are looking at.*
 
 ## What to do
 
-1. Confirm whether your accreditation is controlling-third-party type. Standard and high-volume accredited employers are not subject to the 35 percent construction-sector rule, though the base 15 percent NZ workforce requirement applies to them separately.
-2. Check the INZ construction sector guidance[^1] to identify which occupations are in scope for the 35 percent threshold. Match these against your current and planned placement pool.
-3. If you were accredited before 27 November 2023, check the date of your most recent Job Check. If you have submitted any Job Check since that date, the transitional arrangement has ended and the 35 percent threshold applies now.
-4. Calculate your current NZ-citizen/resident proportion for construction-occupation placements, counting only workers at 30 hours or more per week. If the proportion is below 35 percent, this is the gap to close before the next Job Check.
-5. If meeting the threshold within the current placed workforce is not achievable before your next planned Job Check, discuss the options — including the timing and scope of the application — with a licensed immigration adviser before submitting.
+1. If you have hiring or bidding decisions built on a 35% construction target, revisit them. The number is 15% and has been since 27 January 2025.[^1]
+2. Confirm your accreditation type. The condition applies to triangular employer accreditation only — standard and high-volume employers hiring directly are not subject to it.
+3. Check whether the single-placement exemption applies to you. If you place no more than one employee in a triangular arrangement, the threshold does not bite.[^2]
+4. Run the calculation on the placed-worker denominator, counting only New Zealand citizens and residents guaranteed at least 30 paid hours a week.
+5. Move the calculation from point-in-time to periodic — monthly is a defensible cadence — and keep the outputs. "Meet and maintain" is what you will be evidencing at renewal.[^1] [^5]
+6. Read WA2.20 in the current Operational Manual rather than relying on summaries, including this one. The public requirements page does not carry the condition.[^4]
 
 ## What we don't know
 
-INZ's published guidance confirms the 35 percent threshold and the transitional rule but does not specify how it treats roles that span construction and another sector. It is also not clear from published guidance whether an employer held at Job Check can resolve the threshold gap through interim workforce changes and resubmit, or whether there are separate timeframe constraints on the hold. The specific list of construction occupations in scope for the higher threshold is in the INZ guidance page[^1] and should be read directly rather than assumed from general descriptions of construction work. If you are near the threshold or uncertain whether a specific occupation qualifies, a licensed immigration adviser can help interpret the boundary cases.
+INZ does not publish how the 15% is calculated — headcount or FTE, point-in-time or averaged over a period. The Manual states the condition without resolving the method, and we have found nothing that says how assessors treat the ambiguity. "Maintain throughout the period" implies something more than a snapshot, but does not specify what.
+
+It is also unclear what happens where an employer drops below 15% temporarily — for example when a New Zealand placement ends and the replacement starts three weeks later. Nothing published describes a tolerance, a cure period, or whether a transient dip is treated as non-compliance.
 
 ## Have your say
 
-We are building a picture of how the NZ workforce ratio requirements work in practice for controlling-third-party employers — whether the 35 percent threshold is achievable, how employers are counting, and where the practical gaps tend to be. If you hold controlling-third-party accreditation in construction, we would value your input via the [home-page survey]({{< ref "/" >}}). It takes about five minutes. No cost, no commitment.
+We are building a picture of how the workforce ratio works in practice for triangular accreditation holders — how employers count, at what cadence, and whether the 15% is a real constraint or a formality. If you hold this accreditation type, we would value your input via the [home-page survey]({{< ref "/" >}}). It takes about five minutes. No cost, no commitment.
 
-The [controlling third party article]({{< ref "/blog/controlling-third-party-accreditation-aewv" >}}) covers the broader requirements that apply to this accreditation type.
+The [15% New Zealander rule note]({{< ref "/blog/aewv-triangular-nz-workforce-ratio" >}}) covers the calculation and evidence questions in more detail. The [controlling third party note]({{< ref "/blog/controlling-third-party-accreditation-aewv" >}}) covers the broader requirements for this accreditation type.
 
 {{< callout type="warning" >}}
 **On the nature of this writing.** These are field notes on AEWV settings as we read them at the time of writing. They are not legal, immigration, or compliance advice. The obligations that apply to your organisation are those in force at the time of any post-accreditation check or enforcement action — not this post. For decisions affecting your accreditation, engage a licensed immigration adviser or a New Zealand-qualified lawyer.
@@ -83,5 +101,8 @@ The [controlling third party article]({{< ref "/blog/controlling-third-party-acc
 
 ## Sources
 
-[^1]: Immigration New Zealand, *NZ workforce requirements for the construction sector*, employer guidance, accessed June 2026. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/extra-requirements-for-controlling-third-party-accreditation/nz-workforce-requirements-for-the-construction-sector>
-[^2]: Immigration New Zealand, *Extra requirements for controlling third parties*, employer guidance, accessed June 2026. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/extra-requirements-for-controlling-third-party-accreditation>
+[^1]: Immigration New Zealand, *Changes to Employment New Zealand module requirements and domestic workforce threshold for AEWV coming into effect*, news centre item, published 23 January 2025; changes effective 27 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-employment-new-zealand-module-requirements-and-domestic-workforce-threshold-for-aewv-coming-into-effect/>
+[^2]: Immigration New Zealand Operational Manual, *WA2.20 Requirements for employers using triangular employment arrangements*, effective 27 January 2025, accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/77106.htm>
+[^3]: Immigration New Zealand, *Guide to post-accreditation checks for AEWV employers*, employer guidance, accessed 2 August 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
+[^4]: Immigration New Zealand, *Requirements for controlling third parties and franchisees*, employer guidance, accessed 2 August 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/requirements-for-controlling-third-parties-and-franchisees/>
+[^5]: Immigration New Zealand Operational Manual, *WA2.30 Subsequent applications for employer accreditation*, effective 27 January 2025, accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/77111.htm>

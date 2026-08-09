@@ -1,7 +1,7 @@
 ---
 title: "Why Job Checks are getting declined — patterns worth checking before you submit"
 date: 2026-05-03
-lastmod: 2026-05-03
+lastmod: 2026-08-02
 slug: "aewv-job-check-declined-reasons"
 author: "AEWV Compliance editorial"
 description: "A declined Job Check costs weeks. The recurring reasons are not exotic — they cluster around advertising evidence, market-rate reasoning, and role description drift."
@@ -56,7 +56,7 @@ Reasoning that holds up:
 - Internal pay parity evidence — what the same role is paid for non-migrant staff, with payroll or contract records to support it.
 - Offer letters or comparator advertisements from the same labour market, captured with date.
 
-Reasoning that does not hold up: a wage at or just above the AEWV median wage threshold, asserted without a market reference. Meeting the threshold is necessary but not sufficient. The assessor wants to see why this wage is the right one for this role, not only that it clears the floor.
+Reasoning that does not hold up: a wage pegged to the immigration median wage and asserted without a market reference. Since the general median wage requirement was removed from the AEWV on 10 March 2025,[^4] clearing that figure proves nothing on its own. The assessor wants to see why this wage is the right one for this role.
 
 ## Pattern 3 — role description that has drifted from the work
 
@@ -104,6 +104,7 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 
 ## Sources
 
-[^1]: Immigration New Zealand, *AEWV employer accreditation and Job Check process*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/aewv-job-check-process>
+[^1]: Immigration New Zealand, *Applying for a job check: process steps*, employer guidance, accessed 2 August 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-a-job-check-process-steps/>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^3]: Immigration New Zealand, *Recognising National Occupation List (NOL) occupations in the AEWV*, news centre item, 2026. <https://www.immigration.govt.nz/about-us/news-centre/recognising-national-occupation-list-nol-occupations-in-the-accredited-employer-work-visa-aewv/>
+[^4]: Immigration New Zealand, *Changes to the Accredited Employer Work Visa (AEWV) and median wage*, news centre item, published 20 February 2025; median wage requirement removed from AEWV effective 10 March 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv-and-median-wage/>

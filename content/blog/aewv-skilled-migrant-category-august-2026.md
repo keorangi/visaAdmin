@@ -2,7 +2,7 @@
 title: "Skilled Migrant Category changes in August 2026 — the employer-side picture"
 description: "Skilled Migrant Category changes take effect 24 August 2026. For accredited employers offering residence-pathway roles, here is the employer-side checklist."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-02
 slug: "aewv-skilled-migrant-category-august-2026"
 author: "AEWV Compliance editorial"
 keywords:
@@ -99,4 +99,4 @@ We are trying to understand how widely accredited employers have built SMC resid
 ## Sources
 
 [^1]: Immigration New Zealand, *Further changes to the Skilled Migrant Category to come into effect on 24 August 2026*, Immigration New Zealand news centre, accessed June 2026. <https://www.immigration.govt.nz/about-us/news-centre/further-changes-to-the-skilled-migrant-category-to-come-into-effect-in-august-2026/>
-[^2]: Immigration New Zealand, *Skilled Migrant Category Resident Visa*, Immigration New Zealand residence visa guidance, accessed June 2026. <https://www.immigration.govt.nz/new-zealand-visas/visas/visa/skilled-migrant-category-resident-visa>
+[^2]: Immigration New Zealand, *Skilled Migrant Category Resident Visa*, Immigration New Zealand residence visa guidance, accessed June 2026. <https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/>

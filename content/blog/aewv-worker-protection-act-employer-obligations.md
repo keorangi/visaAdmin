@@ -2,7 +2,7 @@
 title: "The Worker Protection Act 2023 — the employer-side obligations accreditation holders need to know"
 description: "Worker Protection Act 2023 created a 10-working-day document production obligation for AEWV employers — distinct from PAC readiness, and separately enforceable."
 date: 2026-06-01
-lastmod: 2026-06-01
+lastmod: 2026-08-02
 slug: "aewv-worker-protection-act-employer-obligations"
 author: "AEWV Compliance editorial"
 keywords:
@@ -96,4 +96,4 @@ The [opening note from the team]({{< ref "/blog/welcome" >}}) sets out the wider
 [^2]: Employment New Zealand, *New requirements for employers under the Worker Protection Act*, 21 December 2023. <https://www.employment.govt.nz/news-and-updates/new-requirements-for-employers-under-the-worker-protection-act>
 [^3]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, commenced 11 April 2024. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^4]: Employment New Zealand, *Migrant exploitation*, updated 26 January 2026. <https://www.employment.govt.nz/resolving-problems/migrant-exploitation>
-[^5]: Employment New Zealand, *Keeping accurate records*. <https://www.employment.govt.nz/starting-employment/keeping-accurate-records>
+[^5]: Employment New Zealand, *Keeping accurate records*. <https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/record-keeping>

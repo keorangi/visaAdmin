@@ -1,7 +1,7 @@
 ---
 title: "When an AEWV worker leaves — the 10-working-day notification clock"
 date: 2026-05-03
-lastmod: 2026-05-03
+lastmod: 2026-08-02
 slug: "aewv-worker-leaves-10-day-notification"
 author: "AEWV Compliance editorial"
 description: "If an AEWV worker resigns, transfers, or is dismissed, the employer has 10 working days to tell INZ. The clock starts at the change, not at the worker's last day."
@@ -90,6 +90,6 @@ For broader context on what the team is sketching, see the [opening note]({{< re
 
 ## Sources
 
-[^1]: Immigration New Zealand, *If things change for AEWV accredited employers*, INZ employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/if-things-change-for-aewv-accredited-employers>
+[^1]: Immigration New Zealand, *If things change for AEWV accredited employers*, INZ employer guidance, current as at 2026-05-03. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/if-things-change-for-aewv-accredited-employers/>
 [^2]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, commenced 1 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
 [^3]: Immigration New Zealand, *Update to simplified Accredited Employer Work Visa (AEWV) job change process*, news centre item, 2025. <https://www.immigration.govt.nz/about-us/news-centre/update-to-simplified-accredited-employer-work-visa-aewv-job-change-process/>

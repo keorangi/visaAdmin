@@ -1,7 +1,7 @@
 ---
 title: "Controlling third party accreditation — what changed when the franchisee path closed"
 date: 2026-05-09
-lastmod: 2026-05-09
+lastmod: 2026-08-02
 slug: "controlling-third-party-accreditation-aewv"
 author: "AEWV Compliance editorial"
 description: "Franchisee accreditation closed in 2024. The remaining route for businesses that operate through someone else's brand or system is controlling third party accreditation — and the rulebook is different."
@@ -110,7 +110,7 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 
 ## Sources
 
-[^1]: Immigration New Zealand, *Franchisee accreditation category to be removed in June 2024*, news notification, current as at 2026-05-09. <https://www.immigration.govt.nz/about-us/media-centre/news-notifications/franchisee-accreditation-category-to-be-removed-in-june-2024>
+[^1]: Immigration New Zealand, *Franchisee accreditation category to be removed in June 2024*, news notification, current as at 2026-05-09. <https://www.immigration.govt.nz/about-us/news-centre/franchisee-accreditation-category-to-be-removed-in-june-2024/>
 [^2]: Immigration New Zealand, *Requirements for controlling third parties and franchisees*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/requirements-for-controlling-third-parties-and-franchisees/>
-[^3]: Immigration New Zealand, *Extra requirements for controlling third party accreditation*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/employ-migrants/new-employer-accreditation-and-work-visa/accreditation-types-and-employers-requirements/extra-requirements-for-controlling-third-party-accreditation>
+[^3]: Immigration New Zealand, *Extra requirements for controlling third party accreditation*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/requirements-for-controlling-third-parties-and-franchisees/>
 [^4]: Parliamentary Counsel Office, *Worker Protection (Migrant and Other Employees) Act 2023*, current as at 2026-05-09. <https://www.legislation.govt.nz/act/public/2023/0049/latest/whole.html>

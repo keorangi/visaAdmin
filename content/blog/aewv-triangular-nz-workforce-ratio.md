@@ -2,7 +2,7 @@
 title: "The 15% New Zealander rule for triangular AEWV accreditation — what it requires and how to evidence it"
 description: "The 15% New Zealander rule for triangular AEWV accreditation applies to workers placed, not the whole workforce. INZ does not prescribe the calculation method."
 date: 2026-06-01
-lastmod: 2026-06-01
+lastmod: 2026-08-02
 slug: "aewv-triangular-nz-workforce-ratio"
 author: "AEWV Compliance editorial"
 keywords:
@@ -53,9 +53,9 @@ The 15% condition applies to:[^1] [^2] [^3]
 
 The condition does **not** apply to standard accreditation (up to five AEWV holders) or high-volume accreditation (six or more). If you hold either of those types, this post does not cover your obligations.
 
-### The construction exception
+### There is no longer a construction exception
 
-For employers placing workers in construction occupations, the threshold is higher: **35%, not 15%**.[^3] This exception appears in the Operational Manual but not on INZ's public employer guidance pages. An employer placing construction workers under a triangular arrangement who reads only the public guidance will find the wrong number.
+Construction used to sit at a higher threshold of 35%. That was reduced to 15% on 27 January 2025, aligning construction with every other sector.[^5] The current Operational Manual chapter carries a single flat rate and no sector variant.[^3] If you are working to 35% for construction placements, that figure was withdrawn.
 
 ### The single-placement exemption
 
@@ -84,7 +84,7 @@ For the broader PAC context, the [post-accreditation check walkthrough]({{< ref 
 ## What we don't know
 
 - INZ does not publicly specify whether the 15% is calculated by headcount or FTE, or over what reference period. The Manual confirms the condition but does not resolve this. We do not know how INZ assessors treat this ambiguity at PAC.
-- The INZ Operational Manual chapter WA2.20 is dated November 2023 and marked archived. A current replacement may exist under a different chapter number. Before relying on the construction exception or single-placement exemption, verify the current Manual via the TOC at immigration.govt.nz/opsmanual/toc.htm.
+- INZ's public page on requirements for controlling third parties does not state the 15% condition at all.[^6] It lives in the Operational Manual and in the post-accreditation check evidence list. We do not know why the public page omits it, and an employer reading only that page would not find the number they are assessed against.
 - The precise evidence format INZ expects at PAC for this condition is not published. The PAC guide says "proof" and "records" without prescribing a template.
 
 ## Have your say
@@ -103,5 +103,7 @@ The [opening note from the team]({{< ref "/blog/welcome" >}}) has more on what w
 
 [^1]: Immigration New Zealand, *Check if you can apply for AEWV employer accreditation and what type*, employer guidance. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/check-if-you-can-apply-for-aewv-employer-accreditation-and-what-type/>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
-[^3]: Immigration New Zealand Operational Manual, chapter WA2.20, issue date 27 November 2023 (archived). <https://www.immigration.govt.nz/opsmanual/82393.htm>
+[^3]: Immigration New Zealand Operational Manual, *WA2.20 Requirements for employers using triangular employment arrangements*, effective 27 January 2025, accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/77106.htm>
 [^4]: Immigration New Zealand, *Requirements for controlling third parties and franchisees*, employer guidance. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/requirements-for-controlling-third-parties-and-franchisees/>
+[^5]: Immigration New Zealand, *Changes to Employment New Zealand module requirements and domestic workforce threshold for AEWV coming into effect*, news centre item, published 23 January 2025; construction threshold reduced from 35% to 15% effective 27 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-employment-new-zealand-module-requirements-and-domestic-workforce-threshold-for-aewv-coming-into-effect/>
+[^6]: Immigration New Zealand, *Requirements for controlling third parties and franchisees*, employer guidance, accessed 2 August 2026 — page does not state the 15% workforce condition. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/applying-for-aewv-employer-accreditation-process-steps/requirements-for-controlling-third-parties-and-franchisees/>

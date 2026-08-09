@@ -1,7 +1,7 @@
 ---
 title: "What a post-accreditation check actually tests — beyond the document list"
 date: 2026-05-09
-lastmod: 2026-05-09
+lastmod: 2026-08-02
 slug: "post-accreditation-check-what-to-expect"
 author: "AEWV Compliance editorial"
 description: "INZ publishes the document categories for a post-accreditation check. The harder question is what makes the records pass an assessor — and where most fall short."
@@ -113,5 +113,5 @@ For wider context, the [opening note from the team]({{< ref "/blog/welcome" >}})
 
 [^1]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^2]: Immigration New Zealand, *Immigration employment infringement scheme*, news centre item, current as at 2026-05-09. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
-[^3]: Employment New Zealand, *Record-keeping obligations for employers*, employer guidance, current as at 2026-05-09. <https://www.employment.govt.nz/starting-employment/keeping-accurate-records>
-[^4]: Immigration New Zealand, *Settlement information for migrant workers*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/employ-migrants/keeping-your-migrant-employees/help-your-staff-settle-in-new-zealand>
+[^3]: Employment New Zealand, *Record-keeping obligations for employers*, employer guidance, current as at 2026-05-09. <https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/record-keeping>
+[^4]: Immigration New Zealand, *Settlement information for migrant workers*, employer guidance, current as at 2026-05-09. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/recruiting-and-supporting-a-migrant-to-apply-for-an-aewv-process-steps/accredited-employer-requirements-to-help-settle-aewv-workers-in-new-zealand/>

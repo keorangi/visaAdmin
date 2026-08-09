@@ -2,7 +2,7 @@
 title: "What changed for accredited employers in 2026 — and what didn't but keeps catching people"
 description: "Three material changes landed in early 2026 for AEWV accredited employers. Most of what generates PAC findings has not changed at all."
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-08-02
 slug: "aewv-employer-changes-2026"
 author: "AEWV Compliance editorial"
 keywords:
@@ -24,7 +24,7 @@ poll:
     - "We rely on our adviser to flag what's changed"
 ---
 
-Three material changes took effect in the first quarter of 2026 for AEWV accredited employers: the National Occupation List expanded, the annual median wage threshold lifted, and the minimum wage increased a few weeks later. All three require action if you hire in affected occupations. None of them changed the underlying compliance obligations that were already in place — and those unchanged obligations are still the ones generating findings at post-accreditation checks.
+Three material changes took effect in the first quarter of 2026 for AEWV accredited employers: the National Occupation List expanded, the immigration median wage lifted, and the minimum wage increased a few weeks later. All three require action if you hire in affected occupations. None of them changed the underlying compliance obligations that were already in place — and those unchanged obligations are still the ones generating findings at post-accreditation checks.
 
 ## Why this matters now
 
@@ -40,13 +40,13 @@ First, some roles that previously required full advertising under the genuine-ef
 
 Second, the chef split means that job descriptions written for the old single chef category may no longer map cleanly to an NOL occupation. An employer classifying a role as "chef" for a Job Check application now needs to identify which specific chef occupation applies — and the pay and conditions requirements differ by skill level. The [National Occupation List note]({{< ref "/blog/national-occupation-list-2026" >}}) covers the structure of the NOL and the ANZSCO crosswalk in more detail.
 
-### The median wage threshold increased to $35 an hour
+### The immigration median wage increased to $35 an hour
 
-Also from 9 March 2026, INZ updated the annual median wage threshold to $35 an hour.[^2] For roles not on the NOL, an AEWV worker must generally be paid at or above this rate. Roles that were just above the previous threshold may now sit below it. This is the wage-threshold drift problem: a role that was compliant last year can drift into non-compliance without anyone changing the employment agreement — just because the threshold moved. The [wage-thresholds note]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) explains the mechanics of this.
+Also from 9 March 2026, INZ updated the immigration median wage to $35 an hour, based on June 2025 data.[^2] This is not an AEWV pay floor — the general median wage requirement was removed from the AEWV on 10 March 2025, and the binding pay test is the market rate for the job plus the minimum wage.[^4] [^5] What the median wage still governs is a set of adjacent settings that move with it: Green List pay requirements, the 1.5x threshold for a five-year maximum stay in some lower-skilled roles, the 2x threshold for advertising and minimum skills exemptions, partner and dependent income thresholds, and skilled residence pathway thresholds.[^2] If any of your workforce planning touches those, the March update moved the numbers. The [pay drift note]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) covers what replaced the threshold test.
 
 ### The minimum wage increased from 1 April 2026
 
-The adult minimum wage increased to $23.95 per hour from 1 April 2026, up from $23.50.[^3] For accredited employers, this matters not only for compliance with employment law but for the AEWV pay condition. AEWV workers must be paid at least the applicable minimum wage and, where the threshold test applies, at or above the median wage. An employer who updated for the March median-wage change but not the April minimum-wage change may have a residual gap.
+The adult minimum wage increased to $23.95 per hour from 1 April 2026, up from $23.50.[^3] For accredited employers, this matters both for employment law compliance and for the AEWV. It is now the only fixed pay floor an AEWV role must clear, alongside the rate recorded in each worker's visa conditions. An employer whose salaried workers' hours have expanded may be below it on an effective hourly basis without any rate having changed.
 
 ## What didn't change — and keeps appearing in PAC findings
 
@@ -65,7 +65,7 @@ The three 2026 changes are specific and bounded. The obligations that have been 
 ## What to do this week
 
 1. Check every current AEWV worker's role classification against the updated NOL. If the role is now on the NOL (or is a chef role that maps to one of the three new sub-occupations), the advertising requirements for future Job Checks in that role may have changed.
-2. Check the pay rate in every AEWV worker's employment agreement against both the $35/hour median wage threshold and the new minimum wage rate. For roles subject to the threshold, any rate below $35/hour is a problem.
+2. Check the pay rate in every AEWV worker's employment agreement against the new minimum wage rate and against the rate recorded in their visa conditions. Calculate the effective hourly rate using actual hours worked, not contracted hours.
 3. For any employment agreement variation required by the wage changes, confirm it has been signed, dated, and filed — a verbal agreement or an unexecuted draft does not constitute an amended agreement.
 4. Run a spot-check on your settlement information delivery records, visa-expiry reminder records, and site allocation records for the past six months. The 2026 changes do not affect these categories — if they were weak before, they are still weak.
 5. If you have not yet worked through the post-accreditation check evidence categories, the [PAC walkthrough]({{< ref "/blog/post-accreditation-check-what-to-expect" >}}) covers what assessors look for, category by category.
@@ -94,3 +94,5 @@ The [opening note from the team]({{< ref "/blog/welcome" >}}) sets out what we a
 [^2]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, news centre item, 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
 [^3]: Employment New Zealand, *Minimum wage is increasing on 1 April 2026*, updated 2026. <https://www.employment.govt.nz/news-and-updates/minimum-wage-is-increasing-on-1-april-2026>
 [^4]: Immigration New Zealand, *If things change for AEWV accredited employers*, employer guidance. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/if-things-change-for-aewv-accredited-employers/>
+[^4]: Immigration New Zealand, *Changes to the Accredited Employer Work Visa (AEWV) and median wage*, news centre item, published 20 February 2025; median wage requirement removed from AEWV effective 10 March 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv-and-median-wage/>
+[^5]: Immigration New Zealand, *Wage rate requirements for visas*, accessed 2 August 2026. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>

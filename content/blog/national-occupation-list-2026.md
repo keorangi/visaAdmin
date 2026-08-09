@@ -36,7 +36,7 @@ Before working through the rest of this post, it's worth knowing where the prima
 
 - [Stats NZ — occupation classification](https://www.stats.govt.nz/) — the methodology and any published crosswalks between ANZSCO and the NOL.
 - [MBIE — labour market and immigration policy](https://www.mbie.govt.nz/) — the policy rationale for moving away from a joint Australian classification to one calibrated to the New Zealand labour market.
-- [Immigration New Zealand — AEWV](https://www.immigration.govt.nz/employ-migrants) — the operational rules: what occupation classification means for a particular visa, threshold, or pathway.
+- [Immigration New Zealand — employer accreditation for the AEWV](https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/) — the operational rules: what occupation classification means for a particular visa, threshold, or pathway.
 - [INZ Operational Manual](https://www.immigration.govt.nz/opsmanual/) — the instructions immigration officers actually apply. The manual is dense, but it's the only place where the rule that decides your case is set down in full.
 - [Employment New Zealand](https://www.employment.govt.nz/) — wage and record‑keeping obligations that intersect with occupation classification.
 
@@ -58,7 +58,7 @@ Five layers of an AEWV decision touch the occupation classification. Each one ne
 
 2. **Skill level.** ANZSCO skill levels (1–5) drive a lot of AEWV policy: which wage threshold applies, whether the role is eligible for work‑to‑residence, and what evidence the Job Check requires. The NOL uses its own skill banding. Roles that sat comfortably at one level under ANZSCO may sit differently under the NOL.
 
-3. **Wage threshold reasoning.** AEWV pay rules turn on the median wage and, for some roles, on the high‑paying threshold. The threshold itself doesn't change because of the NOL, but the *reasoning* you record at the point of decision — why this role qualifies at this threshold — does, because the underlying classification it cites is different.
+3. **Pay reasoning.** AEWV pay rules turn on the market rate for the job and, for some roles, on multiples of the immigration median wage. Those tests don't change because of the NOL, but the *reasoning* you record at the point of decision — why this rate is right for this role — does, because the underlying classification it cites is different.
 
 4. **Job Check evidence.** The advertised role wording, the labour market test, and the MSD engagement record all reference the occupation. Older Job Check files may carry ANZSCO codes that no longer mean what they used to. New Job Checks should be issued under the new classification.
 
@@ -81,7 +81,7 @@ If a Post‑Accreditation Check arrives during or after the transition, the ques
 The records that hold up at audit, in our reading of how INZ frames evidence:
 
 - The classification code applied at the time of the Job Check, with the source list and the version date.
-- The pay‑band reasoning, anchored to the median wage figure in force at the time.
+- The pay‑band reasoning, anchored to the market evidence relied on at the time.
 - The labour market test evidence — advertisements, MSD engagement, response handling — referenced against the same classification.
 - A note of any later re‑classification, with the trigger and the new code.
 

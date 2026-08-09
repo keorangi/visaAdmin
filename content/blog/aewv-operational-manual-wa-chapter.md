@@ -2,7 +2,7 @@
 title: "The INZ Operational Manual — the WA chapter for accredited employers"
 description: "The INZ Operational Manual's WA chapter has the assessor instructions behind employer-facing guidance. Here is what WA covers and how to navigate it."
 date: 2026-07-05
-lastmod: 2026-07-05
+lastmod: 2026-08-02
 slug: "aewv-operational-manual-wa-chapter"
 author: "AEWV Compliance editorial"
 keywords:
@@ -24,7 +24,7 @@ poll:
     - "No — we have an adviser who handles the manual"
 ---
 
-INZ's public employer guidance pages — the ones at immigration.govt.nz/work/for-employers — are summaries. The Operational Manual is the document behind them: the source from which assessors work when they process accreditation applications, Job Checks, and visa decisions.[^1] The employer-specific chapter is **WA — Accredited Employer Instructions**, current as at 1 June 2026.[^1] Employers who know how to find it and what it covers are better placed to anticipate what INZ will look for — at a post-accreditation check, a Job Check decision, or a visa application.
+INZ's public employer guidance pages — the ones at immigration.govt.nz/work/for-employers — are summaries. The Operational Manual is the document behind them: the source from which assessors work when they process accreditation applications, Job Checks, and visa decisions.[^1] The employer-specific chapter is **WA — Accredited Employer Instructions**. The Manual carries an issue date of 20 July 2026.[^1] Employers who know how to find it and what it covers are better placed to anticipate what INZ will look for — at a post-accreditation check, a Job Check decision, or a visa application.
 
 ## Why this matters now
 
@@ -44,9 +44,9 @@ WA — Accredited Employer Instructions has four main sub-sections:[^4]
 
 **WA2 — Employer accreditation instructions.** The substantive employer chapter. Contains subsections (WA2.10 through WA2.60) covering standard accreditation requirements, triangular employment arrangements, franchisee employers, processing and verification procedures, and accreditation suspension and revocation.[^4]
 
-WA2 contains requirements that the public accreditation pages do not fully reproduce. Two examples: the 15% NZ-worker condition for triangular employers, and the construction-sector variant of 35%, both appear in WA2.20 at a level of specificity — including the single-placement exemption and the calculation framing — that is absent from INZ's public employer guidance pages.[^5] An employer whose accreditation type involves these conditions should read the WA2 sub-sections that apply to them, not only the public accreditation types page.
+WA2 contains requirements that the public accreditation pages do not reproduce at all. The clearest example is the 15% NZ-worker condition for triangular employers: WA2.20 states it, together with the 30-paid-hours test and the single-placement exemption, at a level of specificity absent from INZ's public employer guidance.[^5] It is also a live illustration of why the Manual matters — construction placements once carried a higher 35% variant, which was reduced to 15% on 27 January 2025 and no longer appears in the current chapter.[^6] An employer whose accreditation type involves these conditions should read the WA2 sub-sections that apply to them, not only the public accreditation types page.
 
-**WA3 — Job Check instructions.** Contains sections on acceptable employment, occupation and skill level assessment, labour market testing, and remuneration standards.[^4] The current WA3 is dated 10 March 2025 — reflecting the round of AEWV policy changes made at that time. If a Job Check application involves a contested claim — on skill level, labour market test evidence, or remuneration — WA3 is where the assessor's operating instruction lives.
+**WA3 — Job Check instructions.** Contains sections on acceptable employment, occupation and skill level assessment, labour market testing, and remuneration standards.[^4] Its sub-sections carry their own effective dates and move independently: as at August 2026, WA3.15 (acceptable employment) is effective 8 December 2025 and WA3.25 (remuneration) is effective 29 September 2025.[^7] That is the point worth internalising — "the current Manual" is not one date, and a sub-section you checked last year may have been reissued since. If a Job Check application involves a contested claim on skill level, labour market test evidence, or remuneration, WA3 is where the assessor's operating instruction lives.
 
 **WA4 — Accredited Employer work visa instructions.** Covers how INZ assesses visa applications by individual workers under the AEWV scheme. Relevant if a worker's visa application is declined or queried and you need to understand the basis on which INZ made the decision.
 
@@ -54,13 +54,13 @@ WA2 contains requirements that the public accreditation pages do not fully repro
 
 The public guidance pages describe the rules. The Operational Manual specifies how assessors apply them. Two patterns appear where the gap is consequential:
 
-**Thresholds and conditions absent from public pages.** The 15% NZ-worker and 35% construction-sector conditions for triangular accreditation holders both appear in the Operational Manual but not in full on INZ's public employer guidance.[^5] An employer who reads only the public accreditation types page may not find the construction variant at all.
+**Thresholds and conditions absent from public pages.** The 15% NZ-worker condition for triangular accreditation holders appears in the Operational Manual but not on INZ's public page for controlling third parties.[^5] An employer who reads only the public guidance will not find the number they are assessed against — and would have no way to tell that the old construction-sector variant had been withdrawn.[^6]
 
 **Assessor discretion and its basis.** The post-accreditation check guide uses "but is not limited to" for its evidence lists.[^2] The WA2 sub-sections tell assessors what they are looking for beyond those listed examples. That is not something an employer can reconstruct from the public pages alone.
 
 ## How to navigate to WA
 
-1. Go to immigration.govt.nz/opsmanual[^1] — the landing page for the Operational Manual, issue date 1 June 2026.
+1. Go to immigration.govt.nz/opsmanual[^1] — the landing page for the Operational Manual, issue date 20 July 2026.
 2. Open the table of contents at /opsmanual/toc.htm.[^3] The WA chapter entry is listed there.
 3. From the WA landing page, navigate to the sub-section relevant to your question — WA2 for accreditation conditions, WA3 for Job Check assessment criteria, WA4 for visa processing.
 4. Check the issue date on each sub-section. The Operational Manual is updated in parts rather than as a whole. A sub-section dated 2023 may have been superseded by policy changes since then — verify against current INZ news and public guidance if there is any conflict.
@@ -91,8 +91,10 @@ If you have needed to go to the Operational Manual to resolve a compliance quest
 
 ## Sources
 
-[^1]: Immigration New Zealand, *Operational Manual*, immigration.govt.nz, issue date 1 June 2026. <https://www.immigration.govt.nz/opsmanual/>
+[^1]: Immigration New Zealand, *Operational Manual*, immigration.govt.nz, issue date 20 July 2026, accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, accessed July 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^3]: Immigration New Zealand, *Operational Manual — table of contents*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/opsmanual/toc.htm>
 [^4]: Immigration New Zealand, *WA — Accredited Employer Instructions*, Operational Manual, accessed July 2026. <https://www.immigration.govt.nz/opsmanual/77093.htm>
-[^5]: Immigration New Zealand Operational Manual, chapter WA2.20, issue date 27 November 2023 (archived — verify current chapter). Cited via: AEWV Compliance, "The 15% New Zealander rule for triangular AEWV accreditation", June 2026. <https://www.immigration.govt.nz/opsmanual/82393.htm>
+[^5]: Immigration New Zealand Operational Manual, *WA2.20 Requirements for employers using triangular employment arrangements*, effective 27 January 2025, accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/77106.htm>
+[^6]: Immigration New Zealand, *Changes to Employment New Zealand module requirements and domestic workforce threshold for AEWV coming into effect*, news centre item, published 23 January 2025; construction threshold reduced from 35% to 15% effective 27 January 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-employment-new-zealand-module-requirements-and-domestic-workforce-threshold-for-aewv-coming-into-effect/>
+[^7]: Immigration New Zealand Operational Manual, *WA3.15 Acceptable employment* (effective 8 December 2025) and *WA3.25 Remuneration* (effective 29 September 2025), accessed 2 August 2026. <https://www.immigration.govt.nz/opsmanual/77177.htm> and <https://www.immigration.govt.nz/opsmanual/77179.htm>

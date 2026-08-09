@@ -1,7 +1,7 @@
 ---
 title: "AEWV settlement information — what counts as compliant delivery"
 date: 2026-05-24
-lastmod: 2026-05-24
+lastmod: 2026-08-02
 slug: "aewv-settlement-information-delivery"
 author: "AEWV Compliance editorial"
 description: "AEWV settlement information delivery has a one-month clock and a named topic list. The compliance question is whether the record shows this worker received this information on this date."
@@ -123,4 +123,4 @@ For the wider context, the [opening note from the team]({{< ref "/blog/welcome" 
 [^1]: Immigration New Zealand, *Accredited employer requirements to help settle AEWV workers in New Zealand*, employer guidance, current as at 2026-05-24. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/recruiting-and-supporting-a-migrant-to-apply-for-an-aewv-process-steps/accredited-employer-requirements-to-help-settle-aewv-workers-in-new-zealand/>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, employer guidance, current as at 2026-05-24. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
 [^3]: Immigration New Zealand, *Immigration Employment Infringement Scheme*, news centre item, scheme commenced 11 April 2024. <https://www.immigration.govt.nz/about-us/news-centre/immigration-employment-infringement-scheme/>
-[^4]: Employment New Zealand, *Keeping accurate records*, employer guidance, current as at 2026-05-24. <https://www.employment.govt.nz/starting-employment/keeping-accurate-records>
+[^4]: Employment New Zealand, *Keeping accurate records*, employer guidance, current as at 2026-05-24. <https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/record-keeping>

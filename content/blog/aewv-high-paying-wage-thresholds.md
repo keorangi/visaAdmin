@@ -2,7 +2,7 @@
 title: "AEWV high-paying thresholds — how the 1.5x and 2x median wage points change the rules"
 description: "At 1.5 times the AEWV median wage, lower-skilled roles become eligible for a five-year maximum stay. At twice the median, the role may skip the labour market test."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-02
 slug: "aewv-high-paying-wage-thresholds"
 author: "AEWV Compliance editorial"
 keywords:
@@ -24,11 +24,11 @@ poll:
     - "We weren't aware these thresholds existed"
 ---
 
-The AEWV wage threshold most employers track is the $35 median wage floor — the minimum required to run a standard Job Check. Two further thresholds sit above it, each carrying distinct consequences for employers and workers. Paying at 1.5 times the current median wage ($52.50 per hour, as at March 2026) enables the maximum five-year continuous stay for workers in some lower-skilled roles.[^3] Paying twice the median ($70.00 per hour) may exempt the role from advertising requirements and minimum skills checks.[^3] Neither threshold is routinely factored into Job Check strategy.
+The AEWV has no median wage floor — that requirement was removed on 10 March 2025, leaving market rate as the pay test.[^4] But the immigration median wage still exists, and two multiples of it carry distinct consequences for employers and workers. Paying at 1.5 times the current median wage ($52.50 per hour, as at March 2026) enables the maximum five-year continuous stay for workers in some lower-skilled roles.[^3] Paying twice the median ($70.00 per hour) may exempt the role from advertising requirements and minimum skills checks.[^3] Neither threshold is routinely factored into Job Check strategy.
 
 ## Why this matters now
 
-The median wage threshold increased to $35 per hour on 9 March 2026, which moved both multiplier thresholds upward.[^3] Any employer who had previously noted the 2× labour market test exemption figure should re-check the current dollar amount — it shifted with the March update. The [wage threshold drift article]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) covers what the $35 floor means for existing roles; this note covers the two thresholds above it and when they are worth planning around.
+The immigration median wage increased to $35 per hour on 9 March 2026, which moved both multiplier thresholds upward.[^3] Any employer who had previously noted the 2x labour market test exemption figure should re-check the current dollar amount — it shifted with the March update. The [pay drift article]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) covers what replaced the old threshold test; this note covers the two multipliers that still bite.
 
 ## How the 1.5× threshold works
 
@@ -87,3 +87,4 @@ We are trying to understand how widely accredited employers actively plan around
 [^1]: Immigration New Zealand, *Wage rates for work visas*, Immigration New Zealand employer guidance, accessed June 2026. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
 [^3]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, Immigration New Zealand news centre, effective 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
 [^4]: Immigration New Zealand, *Job Check process for AEWV employers*, Immigration New Zealand employer guidance, accessed June 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/>
+[^4]: Immigration New Zealand, *Changes to the Accredited Employer Work Visa (AEWV) and median wage*, news centre item, published 20 February 2025; median wage requirement removed from AEWV effective 10 March 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv-and-median-wage/>

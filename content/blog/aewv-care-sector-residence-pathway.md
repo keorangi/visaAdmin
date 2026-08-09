@@ -2,7 +2,7 @@
 title: "The care sector residence pathway — what employers need to hold to support it"
 description: "Care workers need 24 months in a qualifying role in the 30 months before they apply, paid at $28.25/hour. Here is what employers need to document."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-08-02
 slug: "aewv-care-sector-residence-pathway"
 author: "AEWV Compliance editorial"
 keywords:
@@ -97,4 +97,4 @@ We are mapping where the care sector residence pathway breaks down in practice �
 
 [^1]: Immigration New Zealand, *Care workforce and transport sector pathway to residence*, Immigration New Zealand residence visa guidance, accessed June 2026. <https://www.immigration.govt.nz/live/resident-visas-to-live-in-new-zealand/skilled-residence-pathways-in-new-zealand/care-workforce-and-transport-sector-pathway-to-residence/>
 [^2]: Immigration New Zealand, *Guide to Post-Accreditation Checks for AEWV employers*, Immigration New Zealand employer guidance, accessed June 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/guide-to-post-accreditation-checks-for-aewv-employers/>
-[^3]: Immigration New Zealand, *Care Workforce Work to Residence Visa — requirements*, Immigration New Zealand visa requirements, accessed June 2026. <https://www.immigration.govt.nz/new-zealand-visas/visas/visa/care-workforce-work-to-residence-visa>
+[^3]: Immigration New Zealand, *Care Workforce Work to Residence Visa — requirements*, Immigration New Zealand visa requirements, accessed June 2026. <https://www.immigration.govt.nz/visas/care-workforce-work-to-residence-visa/>

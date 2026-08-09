@@ -2,7 +2,7 @@
 title: "What 'genuine efforts to hire a New Zealander' looks like in evidence"
 description: "INZ states the genuine-efforts requirement for AEWV Job Checks but doesn't show what a defensible evidence pack looks like. This is where applications fail."
 date: 2026-06-08
-lastmod: 2026-06-08
+lastmod: 2026-08-02
 slug: "aewv-genuine-efforts-hire-new-zealander"
 author: "AEWV Compliance editorial"
 keywords:
@@ -97,4 +97,4 @@ The [opening note from the team]({{< ref "/blog/welcome" >}}) sets out what we a
 
 [^1]: Immigration New Zealand, *AEWV employer accreditation and Job Check process*, employer guidance. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/>
 [^2]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, news centre item, 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
-[^3]: Work and Income, *List a vacancy*, employer resources. <https://www.workandincome.govt.nz/employers/help-with-recruitment/list-vacancy.html>
+[^3]: Work and Income, *List a vacancy*, employer resources. <https://www.workandincome.govt.nz/employers/help-with-recruitment/index.html>

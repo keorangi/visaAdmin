@@ -1,14 +1,14 @@
 ---
-title: "AEWV compliance in the hospitality sector — chef reclassification, the $35 wage floor, and the turnover risk"
-description: "Chef NOL reclassification, the $35/hr wage floor, and high staff turnover create compound AEWV compliance risks for hospitality employers."
+title: "AEWV compliance in the hospitality sector — chef reclassification, market rate, and the turnover risk"
+description: "Chef NOL reclassification, market-rate pay evidence, and high staff turnover create compound AEWV compliance risks for hospitality employers."
 date: 2026-07-05
-lastmod: 2026-07-05
+lastmod: 2026-08-02
 slug: "aewv-hospitality-sector-compliance"
 author: "AEWV Compliance editorial"
 keywords:
   - AEWV hospitality employer compliance
   - AEWV chef NOL reclassification
-  - AEWV hospitality wage threshold
+  - AEWV hospitality market rate
   - hospitality accredited employer NZ
 tags:
   - aewv
@@ -28,7 +28,7 @@ Hospitality employers hold a significant share of New Zealand's AEWV accreditati
 
 ## Why this matters now
 
-From 9 March 2026, INZ recognised additional occupations under the National Occupation List, including a split of chef roles into distinct categories based on skill level and seniority.[^1] That reclassification changes which roles may qualify for different Job Check conditions. The $35/hour immigration median wage floor also applies from that date.[^1] For a hospitality employer who last ran a Job Check for kitchen staff before March, mid-2026 is the point at which any impact on upcoming renewals or new applications becomes visible.
+From 9 March 2026, INZ recognised additional occupations under the National Occupation List, including a split of chef roles into distinct categories based on skill level and seniority.[^1] That reclassification changes which roles may qualify for different Job Check conditions. For a hospitality employer who last ran a Job Check for kitchen staff before March, mid-2026 is the point at which any impact on upcoming renewals or new applications becomes visible.
 
 ## The chef NOL reclassification
 
@@ -38,15 +38,17 @@ The practical consequence is that a role previously classified under the broad c
 
 The specific NOL occupation codes for kitchen roles are published in INZ's National Occupation List guidance.[^1] Hospitality employers with kitchen AEWV workers should confirm each role's current classification against the March 2026 NOL — not against a pre-March Job Check or a role description that has not been reviewed since.
 
-## The $35/hour wage floor in a variable-hours environment
+## Pay evidence in a variable-hours environment
 
-The AEWV immigration median wage threshold is $35 per hour, effective 9 March 2026.[^1] All roles must meet this floor. In hospitality, two patterns create compliance exposure around it.
+There is no AEWV median wage floor. The general median wage requirement was removed on 10 March 2025; what an AEWV role must clear is the market rate for the job, plus the legal minimum wage of $23.95 per hour from 1 April 2026.[^6] [^7] In hospitality, three patterns create exposure around that.
 
-**Variable hours.** Hospitality roles frequently involve variable weekly hours — split shifts, public holiday surcharges, seasonal ebbs and peaks. The wage threshold applies to the hourly rate in the employment agreement, not to a weekly or annual average. An AEWV worker on a $35/hour rate who receives fewer hours during a slow period remains compliant on the threshold — but the employer must ensure each worker's employment agreement states the correct hourly rate and that payroll records can trace actual payments to it.
+**Market-rate evidence, not a threshold.** Under the old rule, a hospitality role paid above the median wage cleared the immigration pay test by arithmetic. Now the employer has to show why the rate is the market rate for that role. INZ publishes no rate card.[^6] In a sector where pay varies widely by venue, region and shift pattern, that reasoning is harder to assemble and more important to keep on file.
 
-**Tips and service charges.** The treatment of tips, gratuities, and employer-distributed service charges in relation to the $35/hour threshold is not addressed in INZ's standard employer guidance. Whether they can be counted toward the threshold is not confirmed in any source we have found. Do not assume they count without verifying with a licensed adviser or checking the current INZ Job Check requirements directly.
+**Variable hours.** Hospitality roles frequently involve variable weekly hours — split shifts, public holiday surcharges, seasonal ebbs and peaks. Each worker's employment agreement must state the correct hourly rate, payroll records must trace actual payments to it, and the effective hourly rate must not fall below the minimum wage once actual hours are counted. That last test is the one variable hours put pressure on.
 
-The [wage thresholds drift article]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) covers how roles can drift out of threshold compliance without a wage change — a pattern particularly relevant in hospitality where enterprise agreement rates can lag behind annual median wage updates.
+**Tips and service charges.** Whether tips, gratuities, and employer-distributed service charges count toward a worker's pay rate for immigration purposes is not addressed in INZ's standard employer guidance, and we have found no source confirming it. Do not assume they count without verifying with a licensed adviser or checking the current INZ Job Check requirements directly.
+
+The [pay drift article]({{< ref "/blog/aewv-wage-thresholds-drift" >}}) covers how rates drift out of line without anyone changing a number — a pattern particularly relevant in hospitality where enterprise agreement rates and market rates move at different speeds.
 
 ## High turnover and the notification clock
 
@@ -63,7 +65,7 @@ The [settlement information article]({{< ref "/blog/aewv-settlement-information-
 ## What to do
 
 1. For each AEWV worker in a kitchen or hospitality role, confirm their NOL occupation classification against the March 2026 NOL list. If any role has moved to a different NOL category, check whether the Job Check requirements for that category differ from what applied at the previous application.
-2. Confirm that each hospitality AEWV worker's employment agreement states an hourly rate at or above $35/hour. Ensure payroll records can demonstrate actual payments at that rate, traceable to each pay period.
+2. Confirm that each hospitality AEWV worker's employment agreement states an hourly rate that is not below the rate recorded in their visa conditions, and that payroll records can demonstrate actual payments traceable to each pay period. Check the effective hourly rate against the minimum wage using actual hours, not contracted hours.
 3. Build an AEWV worker departure notification process separate from standard HR offboarding. Assign it to a named person and calendar the 10-working-day window from the date the worker stops working — not from resignation or payroll processing.
 4. Check that each AEWV worker hired in the past 12 months has a per-worker record of settlement information delivery, including when it was provided and how.
 5. Before the next kitchen role Job Check submission, verify the role's current NOL occupation and the applicable advertising or labour market test requirements — these may have changed from the previous application as a result of the March 2026 reclassification.
@@ -72,7 +74,7 @@ The [settlement information article]({{< ref "/blog/aewv-settlement-information-
 
 The specific occupation names and codes resulting from the March 2026 chef NOL reclassification are set out in INZ's National Occupation List guidance, but the full detail was not reproduced in the public announcement we have reviewed.[^1] Verify the current NOL occupations directly before any Job Check submission.
 
-Whether tips, service charges, or gratuities can be counted toward the $35/hour AEWV median wage threshold is not addressed in any INZ employer guidance source we have accessed. Treat them as not counting unless INZ confirms otherwise.
+Whether tips, service charges, or gratuities can be counted toward an AEWV worker's pay rate is not addressed in any INZ employer guidance source we have accessed. Treat them as not counting unless INZ confirms otherwise. INZ also publishes no market rate ranges by occupation, so how much evidence establishes a market rate in hospitality is not resolved anywhere public.
 
 ## Have your say
 
@@ -89,3 +91,5 @@ If you are an accredited employer in the hospitality sector, the compliance pres
 [^1]: Immigration New Zealand, *New occupations recognised under the National Occupation List and annual median wage increase*, immigration.govt.nz news centre, effective 9 March 2026. <https://www.immigration.govt.nz/about-us/news-centre/new-occupations-recognised-under-the-national-occupation-list-and-annual-median-wage-increase/>
 [^2]: Immigration New Zealand, *If things change for AEWV accredited employers*, immigration.govt.nz employer guidance, accessed July 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/meeting-your-aewv-accredited-employer-requirements/if-things-change-for-aewv-accredited-employers/>
 [^3]: Immigration New Zealand, *AEWV employer accreditation and job check process*, immigration.govt.nz, accessed July 2026. <https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/>
+[^6]: Immigration New Zealand, *Wage rate requirements for visas*, accessed 2 August 2026 — AEWV jobs must pay at least the market rate for the job. <https://www.immigration.govt.nz/work/requirements-for-work-visas/wage-rates-for-work-visas/>
+[^7]: Immigration New Zealand, *Changes to the Accredited Employer Work Visa (AEWV) and median wage*, news centre item, published 20 February 2025; median wage requirement removed effective 10 March 2025. <https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-accredited-employer-work-visa-aewv-and-median-wage/>
